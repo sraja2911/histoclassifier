@@ -1,4 +1,4 @@
-A dual classes (Classes Eg: Blood, BloodInk; BloodInk, Control; Control, Ink; Blood, Control- Control: No Ink, Blood, Bubble in the images) image classifier, based on convolutional neural network using Tensorflow.
+A binary classes (Classes Eg: Blood, BloodInk; BloodInk, Control; Control, Ink; Blood, Control- Control: No Ink, Blood, Bubble in the images) image classifier, based on convolutional neural network using Tensorflow.
 
 Glioblastomas (GBM) Images (SVS-WSI images are converted into jpg files) are read through opencv
 (pip install opencv-python)
