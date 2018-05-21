@@ -21,9 +21,9 @@ Used k_size/filter_size as 2 * 2 and stride of 2 in both x and y direction.
 
 Used AdamOptimizer for gradient calculation and weight optimization. Tried to  minimise cost with a learning rate of 0.0001.
 
-
-
+-----------------------------------------------------------------------------------------------------------
 Multiclassifer:
+
 A multi classes (Classes Blood, BloodInk, Control, Ink; Control: No Ink, Blood, Bubble in the images) image classifier, based on convolutional neural network using Tensorflow.
 
 Glioblastomas (GBM) Images (SVS-WSI images are converted into jpg files) are read through opencv (pip install opencv-python)
@@ -38,3 +38,5 @@ Network architecture RELU as our activation function which simply takes the outp
 Used k_size/filter_size as 2 * 2 and stride of 2 in both x and y direction.
 
 Used AdamOptimizer for gradient calculation and weight optimization. Tried to minimise cost with a learning rate of 0.00001.
+
+Training Accuracy: 40-70% and Validation Accuratcy: 0 - 80%
