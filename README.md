@@ -40,3 +40,17 @@ Used k_size/filter_size as 2 * 2 and stride of 2 in both x and y direction.
 Used AdamOptimizer for gradient calculation and weight optimization. Tried to minimise cost with a learning rate of 0.00001.
 
 Training Accuracy: 40-70% and Validation Accuratcy: 0 - 80%
+
+WIP Docs folder has runtime results in a doc file with metrices in a spreadsheet file
+
+Prediction Metrices for each class:
+
+Classess in the order: Blood, BloodInk, Control, Ink     
+
+For Blood   : [[0.41105273, 0.10850155 , 0.250138, 0.23030767]]     
+
+For BlookInk: [[0.47074214, 0.07581728, 0.2964673, 0.1569733 ]] 
+
+For Control : [[0.10678441, 0.50450104, 0.13086669, 0.25784788]]                                                             
+
+For Ink     : [[0.08805854, 0.2579561,  0.31059676 0.343388]]
