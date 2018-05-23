@@ -1,0 +1,1269 @@
+Image Name: TCGA-08-0359-01A-01-TS1.4f651a2c-cf25-4272-9fff-a12bbd63cf41&id-5af5f5f892ca9a001ae77754.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.23317996 0.23111099 0.24353983 0.2921692 ]]
+Image Name: TCGA-12-0619-01Z-00-DX2.e305c038-1dd0-422f-87dd-8edaeace224d&id-5af5f60192ca9a001ae7784a.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.5002594  0.0784054  0.28068095 0.14065424]]
+Image Name: TCGA-12-0618-01A-01-TS1.56ba142f-d2af-4628-aaed-65a20072b8c8&id-5af5f60092ca9a001ae7783a.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.5338241  0.03107356 0.33125505 0.1038472 ]]
+Image Name: TCGA-06-0148-01A-02-BS2.6898d810-a7a5-48fb-b8ae-48e6bad27a61&id-5af5f5f192ca9a001ae77692.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.17428903 0.13321812 0.37837803 0.31411478]]
+Image Name: TCGA-08-0531-01A-01-BS1.2a749986-3b79-48fa-a7bd-2fa5f6e13fc5&id-5af5f5ff92ca9a001ae77814.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.12625383 0.15777436 0.45464838 0.26132345]]
+Image Name: TCGA-06-0152-01Z-00-DX8.8bb9f170-315e-4fce-ab06-6c87f1babaa0&id-5af5f5f492ca9a001ae776d2.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.83416337 0.01312333 0.1095574  0.04315584]]
+Image Name: TCGA-08-0355-01A-01-TS1.b72dfc28-1b6c-4576-aa44-95ae99cc9952&id-5af5f5f792ca9a001ae77738.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.50925356 0.09638847 0.19817577 0.19618212]]
+Image Name: TCGA-12-0618-01Z-00-DX2.2addb6c6-fe61-44da-ab9a-59628b06d747&id-5af5f60192ca9a001ae7783e.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.50950634 0.05349754 0.29367727 0.14331886]]
+Image Name: TCGA-06-0133-01Z-00-DX1.47944c2e-fe0e-4d29-a7a5-2efc01d8dd94&id-5af5f5ec92ca9a001ae7760a.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.62438476 0.03528549 0.22489153 0.11543823]]
+Image Name: TCGA-06-0148-01A-04-BS4.c2c8f4dd-06d2-46cb-bc41-58b001adcb01&id-5af5f5f192ca9a001ae77696.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.24843943 0.09525746 0.47694424 0.17935891]]
+Image Name: TCGA-06-0145-01Z-00-DX2.9713b8c7-4664-40e9-82a1-da0a82d544c2&id-5af5f5f092ca9a001ae77678.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.36719996 0.09532742 0.3402993  0.19717328]]
+Image Name: TCGA-08-0359-01Z-00-DX1.FBED91D4-4D46-4354-ABCF-3D2EBDA42C6D&id-5af5f5f992ca9a001ae77756.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.6658559  0.0451089  0.19575664 0.09327867]]
+Image Name: TCGA-12-0692-01Z-00-DX3.9feb1e97-b622-4977-a3b3-daf594080ed9&id-5af5f60792ca9a001ae778ea.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.7814636  0.01741805 0.14346056 0.05765773]]
+Image Name: TCGA-12-0656-01Z-00-DX2.d2a15599-38d8-4d44-b57b-b075df383f4b&id-5af5f60392ca9a001ae7788c.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.44045413 0.14545693 0.24274129 0.1713477 ]]
+Image Name: TCGA-76-6662-01B-01-TS1.cea52672-39ed-469f-a5b3-c0b71c3aec90&id-5af5f63992ca9a001ae77ddc.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.13901195 0.2761002  0.27757835 0.30730954]]
+Image Name: TCGA-06-0138-01Z-00-DX2.7235a461-6b3f-489c-9bff-cb0ccba874ea&id-5af5f5ed92ca9a001ae77632.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.44770896 0.08087809 0.33614653 0.13526635]]
+Image Name: TCGA-06-0152-01A-01-TS1.c098ae6a-ccc2-4b52-bdad-42775f192021&id-5af5f5f392ca9a001ae776b8.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.08818109 0.28209156 0.30196896 0.32775834]]
+Image Name: TCGA-08-0525-01A-01-BS1.714386f8-9528-487f-b1b6-3a4393d75646&id-5af5f5fe92ca9a001ae777fe.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.10528094 0.17904139 0.4449116  0.27076608]]
+Image Name: TCGA-08-0529-01A-01-TS1.149f5261-785b-4189-9a21-ebcc323791d7&id-5af5f5ff92ca9a001ae7780c.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.16486683 0.1179508  0.27189916 0.44528317]]
+Image Name: TCGA-08-0517-01Z-00-DX1.eee6199e-5387-4198-b45d-0f0e16f7caf6&id-5af5f5fd92ca9a001ae777c6.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.72810376 0.02908175 0.17767756 0.06513686]]
+Image Name: TCGA-08-0521-01Z-00-DX1.ea283930-0c6b-45b4-8331-86e5982a0401&id-5af5f5fe92ca9a001ae777e6.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.5346398  0.07099967 0.29275358 0.10160693]]
+Image Name: TCGA-08-0522-01A-01-TS1.0a576133-ce2b-40bd-8d80-de7d19fb9d61&id-5af5f5fe92ca9a001ae777ea.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.15608822 0.10069887 0.4374382  0.30577466]]
+Image Name: TCGA-12-0654-01C-01-BS1.52cba7d5-7130-48c1-a31e-349f8b12822b&id-5af5f60292ca9a001ae77872.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.11163547 0.50015444 0.13237813 0.25583196]]
+Image Name: TCGA-08-0360-01Z-00-DX1.CE8208FA-E2FA-44C9-9EA7-9DE5278BD217&id-5af5f5f992ca9a001ae7775e.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.12403036 0.54845    0.14586885 0.1816508 ]]
+Image Name: TCGA-08-0511-01Z-00-DX1.D3DD762E-5B8C-47BB-8E12-1C4076BE21D3&id-5af5f5fc92ca9a001ae777a8.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.5329322  0.12177092 0.21743634 0.12786052]]
+Image Name: TCGA-06-0137-01A-01-BS1.e3d78eb3-73d9-4842-a2f0-4be0e3d60daf&id-5af5f5ec92ca9a001ae7760e.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.03880993 0.30578086 0.4139697  0.24143955]]
+Image Name: TCGA-12-0707-01Z-00-DX2.4fc2ee06-8f7f-4463-ad5e-be0ea4605358&id-5af5f60892ca9a001ae77906.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.4524542  0.06568304 0.30144614 0.1804166 ]]
+Image Name: TCGA-12-0822-01Z-00-DX5.DAB7AC20-113B-4B0F-8FE9-8581497468C0&id-5af5f60d92ca9a001ae779b1.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.38193706 0.12258086 0.24774101 0.24774106]]
+Image Name: TCGA-06-0156-01Z-00-DX4.38ef8900-41f7-4e9a-a687-03739b5e29f5&id-5af5f5f592ca9a001ae776fc.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.52071136 0.02314341 0.2878452  0.16830002]]
+Image Name: TCGA-12-0662-01A-01-TS1.00f67f4f-23eb-44ff-bf4d-a7f1c85b3635&id-5af5f60492ca9a001ae778a4.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.14190575 0.44305408 0.19552758 0.21951257]]
+Image Name: TCGA-06-0155-01B-01-BS1.661972ff-f36a-476b-a402-e78ebffb4dd2&id-5af5f5f592ca9a001ae776ea.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.27998063 0.20017546 0.21675533 0.30308855]]
+Image Name: TCGA-06-0152-01Z-00-DX2.3abd50dc-888e-4cc4-b92a-65767de46038&id-5af5f5f392ca9a001ae776c4.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.732304   0.02573999 0.16222337 0.07973268]]
+Image Name: TCGA-08-0355-01Z-00-DX1.07707D65-4EBF-437E-A53D-F779F0AEF7F3&id-5af5f5f792ca9a001ae7773a.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.45745882 0.10469254 0.32791558 0.1099331 ]]
+Image Name: TCGA-06-0145-01A-02-BS2.6bac7c82-b883-42a5-82e1-2da0a9c1ebf7&id-5af5f5ef92ca9a001ae7766c.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.02376546 0.45222524 0.2142829  0.3097265 ]]
+Image Name: TCGA-06-0145-01A-06-BS6.7ffdd6df-3e88-4b41-8a70-d1dbf9e45514&id-5af5f5f092ca9a001ae77674.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.05844956 0.2581483  0.36396208 0.31944013]]
+Image Name: TCGA-06-0130-01Z-00-DX1.0391b65f-4e1d-4444-abb0-e5804606d461&id-5af5f5ec92ca9a001ae775fe.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.28251433 0.11214797 0.34054586 0.2647919 ]]
+Image Name: TCGA-06-0124-01Z-00-DX6.6f47506a-94ca-4f3e-a824-dd6098cdc911&id-5af5f5ea92ca9a001ae775c2.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.67123115 0.02336491 0.19901069 0.10639331]]
+Image Name: TCGA-08-0512-01A-01-BS1.3cefc0c0-6659-479d-80fb-89ca3730be10&id-5af5f5fc92ca9a001ae777aa.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.08326136 0.6295005  0.10310805 0.18413   ]]
+Image Name: TCGA-12-0692-01A-01-BS1.2c0655ec-1334-447c-a7e1-8bfcb7050f3e&id-5af5f60692ca9a001ae778e2.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.08827185 0.5350401  0.12459704 0.25209102]]
+Image Name: TCGA-12-0827-01A-01-BS1.d8a48e25-630a-46b8-8f31-86cca619fc31&id-5af5f60e92ca9a001ae779c0.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.15286562 0.30451128 0.21955477 0.3230684 ]]
+Image Name: TCGA-08-0521-01A-01-TS1.5a7e0c3f-6f7c-4543-bdbb-3f80f5dbf67f&id-5af5f5fe92ca9a001ae777e4.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.02387671 0.06585407 0.65709424 0.25317502]]
+Image Name: TCGA-12-0692-01Z-00-DX2.49e03ed1-2e2f-4c47-8c17-6e8826ecdb65&id-5af5f60792ca9a001ae778e8.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.46909106 0.13486017 0.24650237 0.14954644]]
+Image Name: TCGA-12-0707-01Z-00-DX3.f7944647-0396-4ae2-a353-2175df5ad427&id-5af5f60892ca9a001ae77908.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.43549052 0.15460595 0.21069513 0.19920841]]
+Image Name: TCGA-06-0164-01A-01-BS1.21a9218f-5d72-4715-bb60-649349249dc4&id-5af5f5f792ca9a001ae77726.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.14523374 0.1412576  0.37591514 0.33759353]]
+Image Name: TCGA-12-0618-01A-01-BS1.46672fe3-1377-46fc-a94e-a74895bd7f35&id-5af5f60092ca9a001ae77838.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.28443658 0.25192708 0.20164908 0.26198724]]
+Image Name: TCGA-06-0162-01A-01-TS1.31f194c0-f1cd-4fb9-9d8c-e0e7a1a86955&id-5af5f5f792ca9a001ae77720.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.08076251 0.257006   0.34562707 0.3166044 ]]
+Image Name: TCGA-06-0152-01A-02-BS2.ed7867ce-26bb-4ec4-ac8b-33c7f12bb528&id-5af5f5f392ca9a001ae776ba.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.11022898 0.18169628 0.36568356 0.3423912 ]]
+Image Name: TCGA-08-0521-01A-01-BS1.836f1c00-d977-4e41-96d6-3f24d0481075&id-5af5f5fe92ca9a001ae777e2.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.06522647 0.09547561 0.43548125 0.40381664]]
+Image Name: TCGA-06-0141-01Z-00-DX1.ec301079-2d58-4079-b2ab-d8fdbca2fbf7&id-5af5f5ee92ca9a001ae7764a.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.496405   0.06994297 0.281238   0.15241405]]
+Image Name: TCGA-06-0133-01Z-00-DX2.fbda343a-e928-44d6-85a0-2080ced06dd9&id-5af5f5ec92ca9a001ae7760c.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.6307987  0.07097226 0.17542867 0.12280032]]
+Image Name: TCGA-06-0129-01Z-00-DX3.bae772ea-dd36-47ec-8185-761989be3cc8&id-5af5f5ec92ca9a001ae775f8.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.45783237 0.06854197 0.28005505 0.19357067]]
+Image Name: TCGA-08-0531-01Z-00-DX1.94295471-3786-4561-9AE7-4643A4C14DF4&id-5af5f5ff92ca9a001ae77818.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.57921284 0.09500733 0.16671212 0.15906768]]
+Image Name: TCGA-12-0691-01Z-00-DX1.4bb6287c-f989-4f9d-9def-9048138dbc53&id-5af5f60692ca9a001ae778d4.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.632003   0.05767248 0.17260575 0.13771874]]
+Image Name: TCGA-06-0127-01Z-00-DX1.2f717825-f1b4-4ccf-8b38-35c1db04ae49&id-5af5f5eb92ca9a001ae775da.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.09368582 0.5142698  0.14490178 0.24714254]]
+Image Name: TCGA-06-0166-01A-01-BS1.21fdb510-1532-43ab-aaa6-c5790f1ff474&id-5af5f5f792ca9a001ae7772e.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.04303413 0.4492654  0.17042397 0.33727646]]
+Image Name: TCGA-06-0145-01A-01-TS1.6474f743-1f0a-4eef-a211-25f2c2b90b37&id-5af5f5ef92ca9a001ae7766a.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.20360012 0.22051838 0.2802546  0.29562694]]
+Image Name: TCGA-06-0159-01A-01-BS1.f8391b12-7f3d-4813-95a0-617ada338a6f&id-5af5f5f692ca9a001ae77714.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.02639224 0.29708582 0.41231796 0.26420403]]
+Image Name: TCGA-12-0615-01A-01-BS1.455ae401-9837-4e1a-8329-8d73ddd7fb40&id-5af5f5ff92ca9a001ae7781a.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.09777075 0.36383814 0.24562094 0.29277018]]
+Image Name: TCGA-06-0157-01Z-00-DX1.0bb9c6aa-3a9c-4d2b-9ce6-9a1cf54882a4&id-5af5f5f692ca9a001ae77704.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.8266169  0.00944639 0.11369909 0.05023769]]
+Image Name: TCGA-06-0147-01A-01-TS1.af495477-09db-4a81-93a1-462b536c24ce&id-5af5f5f092ca9a001ae77686.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.08196407 0.15855768 0.19801262 0.56146556]]
+Image Name: TCGA-12-0620-01A-01-BS1.6a5febde-d975-4d49-b6dd-7e92aa87b973&id-5af5f60192ca9a001ae7784e.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.15883179 0.20125498 0.47975883 0.16015446]]
+Image Name: TCGA-08-0529-01A-01-BS1.21abafaf-bc88-42a0-b910-1fb683018832&id-5af5f5ff92ca9a001ae7780a.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.12742196 0.19335966 0.26459652 0.41462183]]
+Image Name: TCGA-06-0154-01A-01-BS1.19aa6589-84ea-4897-84c0-24d52b8453b0&id-5af5f5f492ca9a001ae776d8.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.02478726 0.17311932 0.44192836 0.3601651 ]]
+Image Name: TCGA-06-0145-01Z-00-DX1.808a018c-cbbf-4723-b843-4bbf574cc40c&id-5af5f5f092ca9a001ae77676.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.21998546 0.22074305 0.27012333 0.28914812]]
+Image Name: TCGA-06-0148-01Z-00-DX1.3b19c82d-c52d-4514-8bf6-5b0f629c18de&id-5af5f5f192ca9a001ae7769c.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.32712582 0.10022071 0.34052595 0.23212744]]
+Image Name: TCGA-06-0148-01Z-00-DX5.a79e0d64-0318-4976-8b53-6d08b621b31b&id-5af5f5f292ca9a001ae776a4.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.70373416 0.0137524  0.22156797 0.06094544]]
+Image Name: TCGA-12-0826-01Z-00-DX2.EBD12563-948E-4983-8F96-FE56B8358EE2&id-5af5f60e92ca9a001ae779bc.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.5876156  0.05244764 0.22799227 0.13194443]]
+Image Name: TCGA-06-0146-01A-01-BS1.e1ecfb0e-cead-4393-9d46-36ace3452928&id-5af5f5f092ca9a001ae77680.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.04096426 0.13207702 0.32688123 0.5000775 ]]
+Image Name: TCGA-06-0139-01A-01-TS1.c16623cd-416d-4111-8946-c675c323768c&id-5af5f5ee92ca9a001ae7763a.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.19876279 0.21943773 0.26286966 0.31892982]]
+Image Name: TCGA-08-0386-01A-01-TS1.0285df64-2934-419d-8dee-5a77769f2ef7&id-5af5f5fa92ca9a001ae7777e.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.07091205 0.29514796 0.27783558 0.35610443]]
+Image Name: TCGA-12-0662-01Z-00-DX3.83f35f0b-3c38-4e97-a3b1-6685da39364c&id-5af5f60492ca9a001ae778ac.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.5147986  0.12729743 0.2116322  0.14627181]]
+Image Name: TCGA-12-0618-01Z-00-DX1.e174afd8-0708-4e92-8c4b-9578062e56ea&id-5af5f60192ca9a001ae7783c.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.6718384  0.02101059 0.2165599  0.09059112]]
+Image Name: TCGA-06-0137-01Z-00-DX8.a5703515-8d5f-4bfd-8f5a-a66581641e3b&id-5af5f5ed92ca9a001ae77626.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.8185997  0.01292277 0.13014066 0.03833681]]
+Image Name: TCGA-06-0138-01Z-00-DX4.8aec0797-c88f-4345-ab9b-dfba99dd91e6&id-5af5f5ed92ca9a001ae77636.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.33530533 0.17586364 0.20499788 0.28383312]]
+Image Name: TCGA-06-0145-01A-04-BS4.35af777a-905c-495a-a4d5-f7bc302a5cb7&id-5af5f5ef92ca9a001ae77670.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.09917536 0.13744581 0.56727874 0.19610019]]
+Image Name: TCGA-06-0157-01A-01-BS1.7856e0bd-f59d-4b3f-b799-ded0924ec16e&id-5af5f5f592ca9a001ae77700.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.07708886 0.03044034 0.64651    0.24596077]]
+Image Name: TCGA-12-0616-01Z-00-DX4.bcc9933d-865c-4c8d-a96d-607940b8ebaf&id-5af5f60092ca9a001ae77832.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.8423334  0.00974043 0.11355461 0.03437147]]
+Image Name: TCGA-08-0360-01A-01-BS1.4d829ca6-bdf1-4536-8bc9-b55f77dc86a2&id-5af5f5f992ca9a001ae7775a.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.3047534  0.2064307  0.23106053 0.2577555 ]]
+Image Name: TCGA-08-0380-01A-01-BS1.9e3010bf-636b-492b-9a8e-f3535ceeef4b&id-5af5f5f992ca9a001ae7776c.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.4795796  0.04749541 0.31536144 0.15756348]]
+Image Name: TCGA-12-0653-01A-01-TS1.9c0aeddc-ea04-44d1-8192-1fe23d3a8804&id-5af5f60292ca9a001ae7785e.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.25778058 0.12424297 0.39292368 0.22505276]]
+Image Name: TCGA-06-0154-01A-03-BS3.18993f79-353a-4c29-8b92-011dee7e8df1&id-5af5f5f492ca9a001ae776dc.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.03910265 0.02080191 0.55758756 0.38250795]]
+Image Name: TCGA-08-0512-01A-01-TS1.7eff781e-3a88-43be-aec8-a80c1fc87228&id-5af5f5fc92ca9a001ae777ac.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.06878165 0.19133195 0.39161807 0.3482684 ]]
+Image Name: TCGA-08-0386-01Z-00-DX1.F3BE4054-6C0D-4E04-B9F7-8662AADDC8DF&id-5af5f5fa92ca9a001ae77780.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.17857727 0.38199288 0.17713898 0.2622908 ]]
+Image Name: TCGA-08-0355-01A-01-BS1.865fc601-b160-46b1-a116-c8a296c6225e&id-5af5f5f792ca9a001ae77736.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.23658472 0.2172864  0.25429547 0.29183343]]
+Image Name: TCGA-12-0826-01A-01-BS1.09dfaf6e-d02f-4fd7-92ba-89a26620490e&id-5af5f60e92ca9a001ae779b5.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.09713357 0.50250435 0.17635508 0.224007  ]]
+Image Name: TCGA-08-0358-01A-01-BS1.095dda7b-9ddd-4b1d-b00b-c3bcbefce30c&id-5af5f5f892ca9a001ae7774c.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.14340037 0.18825682 0.36361125 0.30473164]]
+Image Name: TCGA-06-0147-01A-02-BS2.6acc63e6-8ff2-48dd-9a16-cac9ef63f285&id-5af5f5f092ca9a001ae77688.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.07325163 0.2822385  0.39516258 0.24934721]]
+Image Name: TCGA-06-0149-01A-01-TS1.349eb4e7-d063-4280-ab50-791e6c79b7ae&id-5af5f5f292ca9a001ae776a8.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.12560542 0.14929278 0.3305371  0.3945647 ]]
+Image Name: TCGA-06-0138-01Z-00-DX3.2767efef-7d5f-40ff-9b36-5329d0fa6829&id-5af5f5ed92ca9a001ae77634.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.2998393  0.14001045 0.3458583  0.21429193]]
+Image Name: TCGA-06-0150-01A-01-BS1.3a70256c-c860-428f-80a2-883921c9ec32&id-5af5f5f292ca9a001ae776ae.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.02794455 0.26407242 0.26566827 0.4423148 ]]
+Image Name: TCGA-08-0520-01A-01-BS1.f1703e2a-8221-42d8-9146-cc1ae23dca87&id-5af5f5fd92ca9a001ae777dc.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.07346702 0.2083157  0.35092753 0.36728975]]
+Image Name: TCGA-06-0152-01A-01-BS1.be1e459a-278e-4283-ad74-baff77bfbdec&id-5af5f5f292ca9a001ae776b6.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.06955709 0.16305676 0.34828067 0.4191055 ]]
+Image Name: TCGA-12-0620-01Z-00-DX1.5d4cc50f-9b78-4b8b-8e8e-1c20ae415d71&id-5af5f60192ca9a001ae77856.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.06656182 0.6629292  0.09040593 0.1801032 ]]
+Image Name: TCGA-12-0616-01A-01-BS1.b9023cf3-eacd-4898-85f0-77e2f0561665&id-5af5f60092ca9a001ae77826.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.0826895  0.28133982 0.3952067  0.24076404]]
+Image Name: TCGA-06-0133-01A-01-BS1.605ba02c-2684-4bea-abbd-7ffd1d0a0c01&id-5af5f5ec92ca9a001ae77608.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.08758602 0.42010087 0.1904257  0.30188736]]
+Image Name: TCGA-08-0385-01Z-00-DX1.04C20116-FB88-429D-B6A2-77CF029676F5&id-5af5f5fa92ca9a001ae7777a.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.38383543 0.1653505  0.2635681  0.18724608]]
+Image Name: TCGA-08-0522-01Z-00-DX2.7424a4a5-0daa-4922-a52f-91321dd76cc9&id-5af5f5fe92ca9a001ae777ee.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.38506752 0.13029946 0.28255856 0.20207447]]
+Image Name: TCGA-08-0525-01Z-00-DX4.bb5894c0-c460-4cf0-899b-420f27864cde&id-5af5f5ff92ca9a001ae77808.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.22600305 0.4059277  0.16865559 0.19941358]]
+Image Name: TCGA-28-1749-01B-01-TS1.36ac81f6-4e0a-44ad-a048-014ed405caae&id-5af5f62692ca9a001ae77bc8.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.13970442 0.16949558 0.35437813 0.3364219 ]]
+Image Name: TCGA-06-0122-01Z-00-DX1.fb97a66e-2720-45e9-af2a-694505d1b808&id-5af5f5e992ca9a001ae775aa.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.1820693  0.38675275 0.19049866 0.24067922]]
+Image Name: TCGA-06-0128-01A-01-TS1.6307bd2c-9f54-48eb-9542-ff3415549dc7&id-5af5f5eb92ca9a001ae775e4.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.05171636 0.09235837 0.47780144 0.37812382]]
+Image Name: TCGA-28-1757-01A-01-TS1.c79b00b2-d64e-4096-916c-525e4bba19d7&id-5af5f62792ca9a001ae77bfc.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.16493052 0.34512186 0.27169764 0.21825002]]
+Image Name: TCGA-12-0827-01Z-00-DX1.2E975B17-CDAF-4EE0-A51E-B22740A2C1AA&id-5af5f60e92ca9a001ae779c4.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.29700032 0.27739727 0.2517596  0.17384277]]
+Image Name: TCGA-06-0149-01A-04-BS4.6eeb9e00-6db2-4177-a5f9-131fc52a23f2&id-5af5f5f292ca9a001ae776aa.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.14205457 0.06885181 0.6895251  0.09956852]]
+Image Name: TCGA-08-0389-01A-01-BS1.b8c104c4-46bb-4d5f-ac54-aa93a8dbf444&id-5af5f5fa92ca9a001ae77782.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.26844704 0.17768906 0.32122892 0.23263502]]
+Image Name: TCGA-06-0158-01A-01-TS1.00a624c2-d4fc-47c3-a5aa-eb0be07d185e&id-5af5f5f692ca9a001ae77710.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.09932566 0.31728283 0.2830141  0.3003773 ]]
+Image Name: TCGA-06-0157-01Z-00-DX4.3b8c3eff-e379-4f37-b6f1-fbd21fb379f5&id-5af5f5f692ca9a001ae7770a.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.3980543  0.03809441 0.4471681  0.1166832 ]]
+Image Name: TCGA-06-0148-01A-03-BS3.35ddb8d4-b43e-49f4-a89c-b958748f7e53&id-5af5f5f192ca9a001ae77694.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.1449128  0.31091353 0.24436527 0.2998084 ]]
+Image Name: TCGA-08-0520-01A-01-TS1.4f43f61b-1f3c-4ec2-96eb-dd0418a94129&id-5af5f5fd92ca9a001ae777de.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.15851213 0.35498667 0.21817034 0.26833093]]
+Image Name: TCGA-08-0390-01Z-00-DX1.01310651-CD52-4244-8C13-44001BBAC17E&id-5af5f5fa92ca9a001ae7778e.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.14620952 0.16959912 0.4133462  0.27084514]]
+Image Name: TCGA-06-0124-01A-01-TS1.4af7e930-3f94-448b-bd17-564c20284a7f&id-5af5f5e992ca9a001ae775b2.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.06286548 0.1671849  0.3019077  0.468042  ]]
+Image Name: TCGA-12-0653-01B-01-BS1.d5ee83cf-62f8-4293-a44e-8e63910c6768&id-5af5f60292ca9a001ae77860.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.09076363 0.09973016 0.30345488 0.50605136]]
+Image Name: TCGA-12-0654-01A-01-TS1.cd2a8c56-ab0b-498a-8810-180bc4d2fffd&id-5af5f60292ca9a001ae7786c.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.25089487 0.14964694 0.4044889  0.19496931]]
+Image Name: TCGA-06-0125-01Z-00-DX1.8e0915b2-8dc3-4753-8062-05643835672b&id-5af5f5ea92ca9a001ae775c8.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.11126202 0.5748626  0.12782042 0.18605493]]
+Image Name: TCGA-06-0129-01Z-00-DX1.b7bddf7d-f39e-45e7-a78d-319d3a4d2dae&id-5af5f5ec92ca9a001ae775f4.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.15638202 0.39756835 0.16365196 0.2823976 ]]
+Image Name: TCGA-08-0514-01A-01-TS1.2bf76577-04dc-447d-826f-c9d5e0564a4d&id-5af5f5fc92ca9a001ae777b4.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.0582662  0.0604846  0.63846725 0.24278192]]
+Image Name: TCGA-06-0143-01A-01-BS1.fd9e540f-8e1f-4aa4-8ce4-b9710560b2db&id-5af5f5ee92ca9a001ae77656.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.18016529 0.48626038 0.14070347 0.19287081]]
+Image Name: TCGA-06-0156-01A-03-TS3.bf9d7aa2-5206-4971-b3db-364d4df6dd83&id-5af5f5f592ca9a001ae776f4.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.07879133 0.1093688  0.30993757 0.5019023 ]]
+Image Name: TCGA-06-0148-01A-05-BS5.074dae2c-3292-4459-8a0c-c05185407389&id-5af5f5f192ca9a001ae77698.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.05135285 0.21760873 0.41265774 0.31838065]]
+Image Name: TCGA-08-0359-01A-01-BS1.27af31ba-b1af-4ab2-b8dc-da48097c1ce3&id-5af5f5f892ca9a001ae77752.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.26141936 0.27781796 0.22476281 0.23599985]]
+Image Name: TCGA-12-0829-01A-01-TS1.2ffea403-894d-4931-b973-e389fb845d43&id-5af5f60f92ca9a001ae779d6.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.40106112 0.12392261 0.28472915 0.1902871 ]]
+Image Name: TCGA-06-0143-01R-01-TS1.10d9ff74-aac4-4b23-b123-fc015f7d1c53&id-5af5f5ef92ca9a001ae7765c.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.08532437 0.45998558 0.20239812 0.2522919 ]]
+Image Name: TCGA-12-0657-01A-01-TS1.b2b1fa02-0653-4f54-8866-59c374867c47&id-5af5f60392ca9a001ae77894.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.10407539 0.49843192 0.19602472 0.20146796]]
+Image Name: TCGA-08-0356-01A-01-BS1.5af83478-4a58-454c-b1a2-4c6252c4d237&id-5af5f5f892ca9a001ae7773c.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.53759515 0.08885566 0.20801282 0.16553637]]
+Image Name: TCGA-06-0154-01Z-00-DX3.3a5e8636-58fa-4fbf-b15d-a674d7195ffd&id-5af5f5f492ca9a001ae776e2.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.5080591  0.0592886  0.2705461  0.16210619]]
+Image Name: TCGA-12-0620-01A-01-TS1.d8da5e35-1fa3-4936-9fce-a91de4325fa3&id-5af5f60192ca9a001ae77850.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.8279769  0.00517611 0.14124253 0.02560451]]
+Image Name: TCGA-06-0166-01Z-00-DX2.bdf93b56-8162-4ddf-a7ef-42dd461daa4f&id-5af5f5f792ca9a001ae77734.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.7603033  0.02717014 0.14549807 0.06702849]]
+Image Name: TCGA-12-0654-01C-01-TS1.23baad9e-7f0c-4206-b99b-30e4f27b1f86&id-5af5f60292ca9a001ae77874.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.11117386 0.34120312 0.2487588  0.29886422]]
+Image Name: TCGA-12-0619-01A-01-BS1.142590bc-89e4-4af1-9241-ed2606a2dbd7&id-5af5f60192ca9a001ae77844.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.13042906 0.26240966 0.3711383  0.23602307]]
+Image Name: TCGA-06-0128-01Z-00-DX4.91ce4e5d-c790-4175-a1c7-be965ae1df40&id-5af5f5eb92ca9a001ae775ec.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.2740265  0.28607073 0.14815052 0.29175225]]
+Image Name: TCGA-12-0670-01A-01-BS1.6083be1a-0f92-4daa-bd66-95952568f998&id-5af5f60492ca9a001ae778b0.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.09480531 0.05116707 0.71361244 0.14041522]]
+Image Name: TCGA-06-0148-01A-06-BS6.208b287a-bcf6-45c6-aabf-e90a79e201fc&id-5af5f5f192ca9a001ae7769a.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.28355113 0.16077325 0.4055131  0.15016255]]
+Image Name: TCGA-12-0654-01Z-00-DX4.c8271027-426b-4ef3-87ca-ba6f03552db1&id-5af5f60392ca9a001ae7787e.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.27762273 0.35803106 0.22097802 0.14336815]]
+Image Name: TCGA-12-0670-01Z-00-DX3.0A69A5A3-8060-4DBE-89F9-A81AAB162725&id-5af5f60592ca9a001ae778bc.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.32573962 0.11663079 0.3870141  0.1706154 ]]
+Image Name: TCGA-12-0688-01Z-00-DX1.391a7503-30a8-44eb-b7f7-d369638b7514&id-5af5f60592ca9a001ae778c6.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.39912853 0.22575763 0.21448149 0.16063237]]
+Image Name: TCGA-08-0386-01A-01-BS1.066ec05b-4bd8-4727-89ae-f169cca48ec1&id-5af5f5fa92ca9a001ae7777c.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.15268604 0.17230353 0.36495858 0.3100519 ]]
+Image Name: TCGA-06-0158-01Z-00-DX1.05358ff8-3c26-440a-9d51-bafa92cf4685&id-5af5f5f692ca9a001ae77712.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.31896356 0.25153986 0.26123697 0.16825962]]
+Image Name: TCGA-08-0390-01A-01-TS1.cea47e76-2215-4dc1-b856-b4bbb6c21c8a&id-5af5f5fa92ca9a001ae7778a.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.2037898  0.3648532  0.18766044 0.24369653]]
+Image Name: TCGA-06-0156-01A-02-TS2.ca398b65-8d0b-4831-80d2-3bf704894c46&id-5af5f5f592ca9a001ae776f2.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.10343126 0.17255864 0.61381423 0.11019589]]
+Image Name: TCGA-12-0707-01A-01-TS1.c409ca5c-4a10-4b1a-8b09-7f09514819f4&id-5af5f60892ca9a001ae77902.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.79106283 0.01312452 0.14610136 0.04971131]]
+Image Name: TCGA-06-0122-01A-01-BS1.19e610dc-3e48-4f20-ab3f-ac8dae1020e8&id-5af5f5e992ca9a001ae775a6.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.08805854 0.2579561  0.31059676 0.34338865]]
+Image Name: TCGA-06-0162-01B-01-TS1.801161da-3596-46d0-a71a-5f0a923de796&id-5af5f5f792ca9a001ae77724.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.32421792 0.13712752 0.34435526 0.19429927]]
+Image Name: TCGA-06-0137-01A-03-BS3.003f242a-aac0-4d4b-af05-4ba6facd000b&id-5af5f5ec92ca9a001ae77614.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.04259135 0.08031119 0.5197079  0.35738954]]
+Image Name: TCGA-06-0140-01A-01-BS1.6f7f13e7-68d1-48fa-8ea2-92ef7457660b&id-5af5f5ee92ca9a001ae77646.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.09055062 0.5753022  0.12439115 0.209756  ]]
+Image Name: TCGA-06-0155-01A-01-TS1.7929c726-7a7e-4c2b-8518-f396581cd7b7&id-5af5f5f592ca9a001ae776e8.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.05137156 0.39120895 0.39331993 0.16409959]]
+Image Name: TCGA-12-0656-01Z-00-DX1.08311e56-c469-459d-8dcc-22dc26be4372&id-5af5f60392ca9a001ae77888.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.4979371  0.14441615 0.18647587 0.17117083]]
+Image Name: TCGA-12-0656-01A-01-TS1.80af6454-577a-452d-b922-c3d1a5be4a03&id-5af5f60392ca9a001ae77882.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.2487599  0.01275713 0.5660355  0.17244744]]
+Image Name: TCGA-06-0141-01Z-00-DX2.9c16caf2-d538-4233-9480-1188d85c229d&id-5af5f5ee92ca9a001ae7764c.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.4974301  0.11717638 0.21865116 0.16674244]]
+Image Name: TCGA-06-0143-01Z-00-DX1.d8a36977-d169-4059-9cd6-3f65f1bc821a&id-5af5f5ef92ca9a001ae7765e.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.28329664 0.14020486 0.31023479 0.2662637 ]]
+Image Name: TCGA-08-0517-01A-01-TS1.753fddeb-4339-4f4c-8314-cc5afafc6b03&id-5af5f5fd92ca9a001ae777c4.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.15724196 0.19188356 0.29532728 0.35554725]]
+Image Name: TCGA-06-0125-01A-01-TS1.5c704cf9-fb9e-46ce-b53b-5b3b3cc908f7&id-5af5f5ea92ca9a001ae775c6.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.03833894 0.18966204 0.19556852 0.5764305 ]]
+Image Name: TCGA-06-0148-01Z-00-DX2.ec9f87b1-adef-4671-a056-19d38dd214f7&id-5af5f5f192ca9a001ae7769e.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.68001205 0.0331797  0.18796822 0.0988401 ]]
+Image Name: TCGA-08-0373-01A-01-BS1.ca0bd4ca-cb2b-4e0b-acc8-134fac94fd9a&id-5af5f5f992ca9a001ae77760.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.15255764 0.17610769 0.34618956 0.32514504]]
+Image Name: TCGA-12-0828-01Z-00-DX3.53D916FA-0855-43B5-BE16-EB5029DF2864&id-5af5f60f92ca9a001ae779d2.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.25893432 0.3241918  0.1625913  0.2542825 ]]
+Image Name: TCGA-12-0691-01Z-00-DX5.2096432e-0a08-449c-a338-a034381c9723&id-5af5f60692ca9a001ae778dd.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.35383737 0.19583203 0.20620437 0.24412619]]
+Image Name: TCGA-08-0525-01Z-00-DX2.0e07f2f3-7712-4301-b0aa-ec850790b699&id-5af5f5ff92ca9a001ae77804.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.0849918  0.5937086  0.13035792 0.19094166]]
+Image Name: TCGA-06-0137-01Z-00-DX2.10a13f6d-b5f1-4fcb-9bf6-718dfbef3251&id-5af5f5ed92ca9a001ae7761a.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.6088754  0.05286478 0.22319368 0.11506607]]
+Image Name: TCGA-76-6662-01A-01-TS1.95ae6f01-16c0-40f8-ae07-9a0eee5e0621&id-5af5f63992ca9a001ae77dd8.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.18459491 0.2414978  0.30290887 0.27099845]]
+Image Name: TCGA-06-0148-01Z-00-DX4.646db76b-0dae-417c-8f52-3feaa14518e3&id-5af5f5f292ca9a001ae776a2.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.48272714 0.05265521 0.29281357 0.17180416]]
+Image Name: TCGA-12-0654-01Z-00-DX3.841822e9-d92f-457b-ab28-fd23efaa58e9&id-5af5f60292ca9a001ae7787a.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.2727881  0.18810746 0.33890474 0.20019974]]
+Image Name: TCGA-12-0657-01Z-00-DX3.b5c2375e-e59b-40ee-b1e0-0f3fc4e17585&id-5af5f60492ca9a001ae7789c.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.22681223 0.34884003 0.22121379 0.20313399]]
+Image Name: TCGA-06-0165-01A-01-BS1.e4c97474-913f-47ba-8bd9-51cfd49cf225&id-5af5f5f792ca9a001ae7772a.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.07214755 0.28034273 0.2642046  0.38330513]]
+Image Name: TCGA-08-0518-01A-01-TS1.7e77b568-cbe9-4c80-83c2-8f3362cf86d0&id-5af5f5fd92ca9a001ae777ca.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.09765632 0.22166175 0.30698127 0.3737007 ]]
+Image Name: TCGA-28-1746-01A-01-TS1.25e63d22-af00-45b3-affc-c344735af3a0&id-5af5f62592ca9a001ae77bb4.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.12737702 0.21833046 0.35317162 0.30112088]]
+Image Name: TCGA-06-0124-01Z-00-DX2.b3bd2a52-1a9a-409e-8908-6a2f30878080&id-5af5f5e992ca9a001ae775b6.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.7725277  0.01660548 0.15378521 0.05708155]]
+Image Name: TCGA-08-0373-01Z-00-DX1.F955B61E-5BE6-4084-A0CB-5C566999570B&id-5af5f5f992ca9a001ae77764.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.07138503 0.66248    0.09068917 0.17544578]]
+Image Name: TCGA-06-0126-01Z-00-DX1.35fbd316-d2a0-421f-a822-07e52ca87d92&id-5af5f5ea92ca9a001ae775d2.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.63026863 0.06627402 0.19819905 0.10525829]]
+Image Name: TCGA-08-0518-01Z-00-DX2.cf1340b8-b75a-4da5-a36f-f9d60c99884b&id-5af5f5fd92ca9a001ae777ce.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.43814355 0.11534202 0.31564948 0.13086498]]
+Image Name: TCGA-06-0129-01A-01-TS1.ccb0ae12-c801-4e46-a3a1-fbc30db9fb2c&id-5af5f5eb92ca9a001ae775f2.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.05197624 0.4287036  0.21442634 0.30489376]]
+Image Name: TCGA-12-0829-01Z-00-DX1.4101C097-7249-42D7-96A3-EB78FD160241&id-5af5f60f92ca9a001ae779da.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.2546271  0.32118553 0.19356853 0.23061883]]
+Image Name: TCGA-06-0149-01A-01-BS1.ad62a206-ad46-4461-9fb1-d83f5c4a9b43&id-5af5f5f292ca9a001ae776a6.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.3114752  0.17749864 0.2925806  0.21844552]]
+Image Name: TCGA-12-0703-01A-02-BS2.3c616e76-d1c3-4167-a108-96ab9eb6b672&id-5af5f60792ca9a001ae778f6.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.10141034 0.5018312  0.1624012  0.23435722]]
+Image Name: TCGA-12-0688-01Z-00-DX4.0876e8d9-b06c-4caa-ae5a-eb197a901e1a&id-5af5f60692ca9a001ae778cc.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.6051611  0.05558337 0.21929    0.11996555]]
+Image Name: TCGA-08-0392-01Z-00-DX1.BB310D33-3C69-4C1B-BF5C-F0E7E025CF74&id-5af5f5fb92ca9a001ae77796.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.2197613  0.2877269  0.19861008 0.29390168]]
+Image Name: TCGA-12-0616-01A-01-TS1.cceca29f-454d-438f-8fef-c83c31693c39&id-5af5f60092ca9a001ae77828.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.35048577 0.06012931 0.39930964 0.19007534]]
+Image Name: TCGA-12-0654-01Z-00-DX2.c0abfb99-9ebc-48eb-bf55-306e39f96419&id-5af5f60292ca9a001ae77878.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.25348407 0.40199593 0.1778272  0.16669287]]
+Image Name: TCGA-06-0149-01A-05-BS5.1451180e-79e8-48a0-aff9-09367260fda3&id-5af5f5f292ca9a001ae776ac.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.11867634 0.38032073 0.1440312  0.35697174]]
+Image Name: TCGA-08-0392-01A-01-BS1.15ef9ebd-0c86-403d-a72e-e33ee79fb555&id-5af5f5fb92ca9a001ae77791.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.30020124 0.18395066 0.3385985  0.17724971]]
+Image Name: TCGA-06-0130-01Z-00-DX2.174bf8b2-127b-437e-b8dc-90c9f1007617&id-5af5f5ec92ca9a001ae77600.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.18373825 0.27701774 0.26200816 0.27723584]]
+Image Name: TCGA-08-0358-01Z-00-DX1.8510133b-16c5-4d60-813d-054b2cb3ad24&id-5af5f5f892ca9a001ae77750.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.7553154  0.03583507 0.12799302 0.08085649]]
+Image Name: TCGA-06-0143-01Z-00-DX3.e9011249-11f6-454b-98f1-7f2bcfea228c&id-5af5f5ef92ca9a001ae77666.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.2929545  0.15733863 0.30663586 0.24307096]]
+Image Name: TCGA-08-0385-01A-01-BS1.6b43e4f0-91d4-4e75-a5f4-a253a4e01cf9&id-5af5f5fa92ca9a001ae77776.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.08415518 0.6305741  0.1008806  0.1843902 ]]
+Image Name: TCGA-06-0137-01Z-00-DX6.20d3049a-547a-49db-bf2c-59d8762441ea&id-5af5f5ed92ca9a001ae77622.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.77218914 0.03367506 0.12130151 0.07283434]]
+Image Name: TCGA-06-0147-01Z-00-DX2.57e3c7a3-b271-4ab3-b6a0-aac29f5d52a6&id-5af5f5f192ca9a001ae7768c.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.14487566 0.5543393  0.1286346  0.17215043]]
+Image Name: TCGA-08-0518-01Z-00-DX4.add6ab3d-5a80-46b0-8059-93ead260ab10&id-5af5f5fd92ca9a001ae777d2.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.44723663 0.12929486 0.24111643 0.18235213]]
+Image Name: TCGA-06-0121-01B-01-TS1.b3ab5d8d-c828-4cee-8240-24b95ae8a967&id-5af5f5e892ca9a001ae775a4.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.22839339 0.32829827 0.22614688 0.2171615 ]]
+Image Name: TCGA-06-0145-01A-05-BS5.f2922c1c-cdaf-4cbd-b032-8a7ff682d8ef&id-5af5f5f092ca9a001ae77672.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.1416893  0.22739485 0.32508093 0.305835  ]]
+Image Name: TCGA-06-0147-01A-01-BS1.abe3c9e1-5acb-49d6-ba8e-9026da62c7e8&id-5af5f5f092ca9a001ae77684.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.04932666 0.18517068 0.48072225 0.28478044]]
+Image Name: TCGA-12-0615-01Z-00-DX1.950874ee-45e9-4921-a75c-0bb8278a3445&id-5af5f5ff92ca9a001ae77820.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.67872167 0.04907474 0.183643   0.0885605 ]]
+Image Name: TCGA-06-0141-01Z-00-DX3.0b0aaacd-38b1-46f4-b8bf-bf38c35e6188&id-5af5f5ee92ca9a001ae7764e.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.18968856 0.25463852 0.27485186 0.28082106]]
+Image Name: TCGA-12-0654-01Z-00-DX1.829d6551-ae54-45a5-8618-8c1d1803f3aa&id-5af5f60292ca9a001ae77876.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.20338778 0.44002572 0.18195944 0.17462708]]
+Image Name: TCGA-12-0662-01Z-00-DX1.aa5dca3e-983c-452c-b7fc-96b5a0b8a389&id-5af5f60492ca9a001ae778a6.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.68026924 0.04986957 0.17287111 0.09699006]]
+Image Name: TCGA-12-0657-01A-01-BS1.007bada0-3353-4820-9edd-82184974cc97&id-5af5f60392ca9a001ae77892.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.20181505 0.23794231 0.26804882 0.29219383]]
+Image Name: TCGA-06-0139-01Z-00-DX2.75346f8f-b81b-4667-8f71-fd2209686888&id-5af5f5ee92ca9a001ae77644.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.3890382  0.10285417 0.32023576 0.18787186]]
+Image Name: TCGA-06-0127-01A-01-TS1.12b24e66-a58e-400e-8248-c0a02507df46&id-5af5f5eb92ca9a001ae775d8.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.21021077 0.1591177  0.32077482 0.30989674]]
+Image Name: TCGA-06-0152-01Z-00-DX7.9e6068c4-3cd2-4fe2-ae00-62ce530b8a5b&id-5af5f5f392ca9a001ae776d0.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.892557   0.00919933 0.07135794 0.02688563]]
+Image Name: TCGA-08-0522-01A-01-BS1.040eb751-66bd-42f1-a46b-005281080794&id-5af5f5fe92ca9a001ae777e8.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.27291033 0.09538275 0.42441416 0.20729274]]
+Image Name: TCGA-08-0518-01Z-00-DX7.37016e3a-813a-4319-a8fa-7dea055ccc68&id-5af5f5fd92ca9a001ae777d8.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.6658292  0.01511721 0.25057057 0.06848305]]
+Image Name: TCGA-06-0156-01Z-00-DX1.1303eb2c-6cf6-4173-804c-d52a111263b5&id-5af5f5f592ca9a001ae776f6.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.57918096 0.05198393 0.23998429 0.12885085]]
+Image Name: TCGA-12-0657-01Z-00-DX1.99d5aeab-5b40-4832-a245-eaf9632d3a8c&id-5af5f60392ca9a001ae77896.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.18030977 0.45554084 0.20120189 0.16294749]]
+Image Name: TCGA-12-0692-01A-01-TS1.486723d3-66c5-456f-bd63-97ade847a19d&id-5af5f60792ca9a001ae778e4.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.3656376  0.11916716 0.32416067 0.19103459]]
+Image Name: TCGA-12-0707-01Z-00-DX1.96127c4a-82dd-4c27-9697-4d3b66bb29cb&id-5af5f60892ca9a001ae77904.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.3972662  0.17217161 0.27230936 0.15825279]]
+Image Name: TCGA-08-0529-01Z-00-DX1.c0aefbea-1aa2-4091-b320-dbdab0964b6d&id-5af5f5ff92ca9a001ae77812.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.47161317 0.13514219 0.22871551 0.1645291 ]]
+Image Name: TCGA-12-0670-01A-01-TS1.9f88e262-db11-47b0-a86c-c4a3ed1a686c&id-5af5f60592ca9a001ae778b2.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.1606682 0.4168356 0.1812904 0.2412058]]
+Image Name: TCGA-06-0156-01A-01-TS1.bafe0641-4493-49b3-abe5-057fe10dd188&id-5af5f5f592ca9a001ae776f0.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.04859692 0.22577187 0.49773875 0.22789246]]
+Image Name: TCGA-06-0128-01Z-00-DX3.37955b76-3fbf-41c5-ba53-4444b5f8443e&id-5af5f5eb92ca9a001ae775ea.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.3713066  0.10843583 0.253353   0.2669045 ]]
+Image Name: TCGA-08-0384-01A-01-TS1.1741a2ee-a80a-45fd-a5f2-96d238a0ee7d&id-5af5f5f992ca9a001ae77774.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.0856022  0.5573596  0.14725949 0.2097788 ]]
+Image Name: TCGA-08-0512-01Z-00-DX1.97698A4E-598B-4D16-94B9-F09CB8AB2D9A&id-5af5f5fc92ca9a001ae777ae.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.3491983  0.11918705 0.34642524 0.18518938]]
+Image Name: TCGA-08-0509-01A-01-BS1.e5823051-ab51-4dbe-ac65-e826e87da4e5&id-5af5f5fb92ca9a001ae77798.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.07940442 0.32637647 0.19903347 0.39518562]]
+Image Name: TCGA-06-0166-01Z-00-DX1.f0c10e84-1591-4ac1-9d14-0eb468f155f1&id-5af5f5f792ca9a001ae77732.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.5683193  0.08831245 0.21471186 0.12865639]]
+Image Name: TCGA-06-0138-01A-01-BS1.13bb9616-31f8-41fc-a6b0-9141f27ba614&id-5af5f5ed92ca9a001ae77628.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.02937372 0.02203603 0.53512394 0.41346627]]
+Image Name: TCGA-08-0375-01A-01-TS1.cd4a139f-6ad6-4e61-9def-1b96521deb2d&id-5af5f5f992ca9a001ae77768.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.12907462 0.41011995 0.22452946 0.23627597]]
+Image Name: TCGA-12-5299-01A-02-BS2.124ada5a-1304-44e0-b5cd-bcd327d01757&id-5af5f61b92ca9a001ae77b06.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.14863521 0.47993076 0.16264471 0.20878933]]
+Image Name: TCGA-08-0517-01A-01-BS1.041cb0cb-f432-4842-8253-08f0cd005a6c&id-5af5f5fc92ca9a001ae777c0.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.08436576 0.60198647 0.11449457 0.1991532 ]]
+Image Name: TCGA-06-0138-01A-01-TS1.a3fb2afb-9d93-4267-9cc8-eeea0dbb63d4&id-5af5f5ed92ca9a001ae7762a.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.110714   0.3975053  0.27751103 0.21426967]]
+Image Name: TCGA-12-0692-01Z-00-DX4.9fceb40e-f018-4b0e-a423-7f234079caae&id-5af5f60792ca9a001ae778ee.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.69702613 0.03564182 0.17801325 0.08931873]]
+Image Name: TCGA-12-0654-01B-01-BS1.772ac13b-3c7b-489f-8bff-7b05a7f98941&id-5af5f60292ca9a001ae7786e.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.10238399 0.46424103 0.17176215 0.26161277]]
+Image Name: TCGA-06-0156-01Z-00-DX3.9ccee303-ec3c-4d99-bb94-294efe89bcef&id-5af5f5f592ca9a001ae776fa.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.25408387 0.2920985  0.2836465  0.17017111]]
+Image Name: TCGA-12-0691-01A-01-BS1.d0a93944-7449-44ce-a9f4-590bf0593262&id-5af5f60692ca9a001ae778d0.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.08588313 0.4352828  0.18680902 0.29202503]]
+Image Name: TCGA-06-0162-01B-01-BS1.caf5aa25-389b-4d1e-871c-a1f65b34d93a&id-5af5f5f792ca9a001ae77722.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.39101154 0.0594662  0.25379553 0.29572672]]
+Image Name: TCGA-08-0373-01A-01-TS1.3e4e0673-9310-4e97-9655-e9e234471bf9&id-5af5f5f992ca9a001ae77762.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.3480703  0.11241815 0.3050728  0.23443885]]
+Image Name: TCGA-06-0139-01B-05-BS5.decabef1-e45b-4477-85cc-8a01e89a7c2f&id-5af5f5ee92ca9a001ae7763f.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.5739612  0.04942179 0.25393716 0.12267984]]
+Image Name: TCGA-08-0380-01Z-00-DX1.256C9EAF-9CB6-4ED6-BBCE-CC47C59C02CE&id-5af5f5f992ca9a001ae77771.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.29318842 0.21607073 0.26767266 0.22306821]]
+Image Name: TCGA-12-0826-01Z-00-DX1.912E2863-3415-4F81-9DC2-C73E010BFBB0&id-5af5f60e92ca9a001ae779ba.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.38055196 0.16822232 0.286141   0.16508472]]
+Image Name: TCGA-06-0152-01R-01-BS1.c098ae6a-ccc2-4b52-bdad-42775f192021&id-5af5f5f392ca9a001ae776bc.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.14016567 0.19926931 0.37325034 0.28731468]]
+Image Name: TCGA-12-0827-01Z-00-DX2.85A76752-6E43-4FD2-A40C-7285CC3FC58D&id-5af5f60e92ca9a001ae779c6.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.34013247 0.24439175 0.21577163 0.19970416]]
+Image Name: TCGA-06-0143-01Z-00-DX2.6c4cb4fb-440c-4099-b7db-ff863614c9b8&id-5af5f5ef92ca9a001ae77663.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.468066   0.15459347 0.22139977 0.15594073]]
+Image Name: TCGA-12-0618-01Z-00-DX4.e0734d40-7ef7-4064-b43d-c748989c6840&id-5af5f60192ca9a001ae77842.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.6167966  0.03158598 0.24150258 0.11011489]]
+Image Name: TCGA-08-0509-01Z-00-DX1.712969EE-F3D2-444C-9A81-179724D6DFDA&id-5af5f5fb92ca9a001ae7779c.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.077197   0.6420952  0.0998276  0.18088016]]
+Image Name: TCGA-06-0128-01Z-00-DX1.daacb161-d72f-4f75-843b-596f0a7fbec7&id-5af5f5eb92ca9a001ae775e6.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.45044962 0.04384036 0.32711166 0.17859828]]
+Image Name: TCGA-12-0662-01Z-00-DX4.29f739c2-f70f-4ad5-ae7f-9f94c14adca2&id-5af5f60492ca9a001ae778ae.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.31934148 0.20955563 0.26312816 0.20797466]]
+Image Name: TCGA-06-0155-01A-01-BS1.8c2f2a91-41b4-451a-a98f-ff2d99f17ba2&id-5af5f5f592ca9a001ae776e6.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.12648402 0.22079143 0.33802548 0.31469902]]
+Image Name: TCGA-06-0124-01Z-00-DX3.30f5dfb8-2160-4abb-94fe-26a979e23638&id-5af5f5e992ca9a001ae775bb.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.86538166 0.00394951 0.09845192 0.03221695]]
+Image Name: TCGA-06-0157-01Z-00-DX3.92209e36-62ba-4296-a166-4d147696bb68&id-5af5f5f692ca9a001ae77708.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.4868688  0.11399521 0.18139116 0.21774483]]
+Image Name: TCGA-06-0152-01Z-00-DX5.d43177f3-75c0-4049-8af7-76c2c12e6411&id-5af5f5f392ca9a001ae776ca.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.5220219  0.10284373 0.2500434  0.12509096]]
+Image Name: TCGA-12-0828-01A-01-TS1.1c596a6a-abf1-4142-861d-d7614ac78a38&id-5af5f60e92ca9a001ae779cc.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.34061185 0.2623216  0.17162542 0.22544114]]
+Image Name: TCGA-08-0524-01Z-00-DX1.698f8ef2-a530-4259-8fcd-cd1291824e7f&id-5af5f5fe92ca9a001ae777f6.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.126743   0.49103943 0.16205743 0.22016013]]
+Image Name: TCGA-06-0156-01Z-00-DX2.e1846804-6f1d-4941-866d-dc54278dbba0&id-5af5f5f592ca9a001ae776f8.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.2596309  0.27818385 0.19133803 0.2708472 ]]
+Image Name: TCGA-08-0510-01A-01-TS1.1a6b3aca-d6e8-4251-b018-96aec8e37177&id-5af5f5fb92ca9a001ae777a0.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.09930191 0.29007822 0.34358168 0.26703814]]
+Image Name: TCGA-08-0356-01A-01-TS1.9f126be0-7ae2-476c-968e-7de2e8616d3b&id-5af5f5f892ca9a001ae77740.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.11424323 0.3015837  0.23515518 0.34901786]]
+Image Name: TCGA-08-0510-01A-01-BS1.aecbceda-3dff-4db3-96be-e2863b375cdf&id-5af5f5fb92ca9a001ae7779e.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.05578206 0.13421991 0.33500877 0.47498924]]
+Image Name: TCGA-06-0157-01Z-00-DX5.4cf3a0ca-78d6-4884-83f0-de4f07080fe6&id-5af5f5f692ca9a001ae7770c.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.61546546 0.0349391  0.25126132 0.09833419]]
+Image Name: TCGA-12-0688-01Z-00-DX3.66a4ef84-ac16-49da-82da-a1b8958957f2&id-5af5f60692ca9a001ae778ca.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.6683305  0.06571556 0.15448931 0.11146457]]
+Image Name: TCGA-06-0125-01Z-00-DX2.4f9cef92-2bdb-480d-8704-94289f8b70fb&id-5af5f5ea92ca9a001ae775ca.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.08102932 0.5407245  0.16206823 0.21617791]]
+Image Name: TCGA-06-0137-01B-02-BS2.8f481bd2-1d0f-4281-b89d-46434183eda5&id-5af5f5ed92ca9a001ae77618.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.11496208 0.10915438 0.5256459  0.25023755]]
+Image Name: TCGA-08-0531-01A-01-TS1.be7a3c67-d6bb-4313-bdc3-7a63a0917ba9&id-5af5f5ff92ca9a001ae77816.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.08378427 0.27518195 0.35223728 0.28879642]]
+Image Name: TCGA-12-0707-01A-01-BS1.05e08ac2-ad48-471d-b241-33a6a764223e&id-5af5f60892ca9a001ae77900.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.14906064 0.26187316 0.3572552  0.231811  ]]
+Image Name: TCGA-12-0653-01Z-00-DX1.fb14e2a6-300b-46bc-a75c-c8c49d10962d&id-5af5f60292ca9a001ae77864.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.469638   0.07726151 0.26568216 0.18741839]]
+Image Name: TCGA-06-0152-01Z-00-DX3.4f78720a-e5ca-4ac4-bdaa-e3ec325ac6bd&id-5af5f5f392ca9a001ae776c6.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.72803193 0.03191899 0.18635616 0.05369302]]
+Image Name: TCGA-06-0126-01Z-00-DX2.9754eddf-27d1-44ae-8bf7-74fa7c6ae431&id-5af5f5ea92ca9a001ae775d4.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.5001052  0.05423532 0.3111051  0.1345543 ]]
+Image Name: TCGA-12-0654-01A-01-BS1.d67195f5-94ee-4601-ad2d-b1c18cbc82ea&id-5af5f60292ca9a001ae77866.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.11605271 0.3137093  0.1515235  0.41871452]]
+Image Name: TCGA-12-0615-01Z-00-DX2.02099a56-eb5f-4b37-899a-dde55ff7f939&id-5af5f5ff92ca9a001ae77822.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.84654695 0.01341795 0.09829281 0.04174226]]
+Image Name: TCGA-12-0829-01Z-00-DX2.16FEE63B-65F2-4B6A-821D-488522B7826E&id-5af5f60f92ca9a001ae779dc.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.3506606  0.05001817 0.43781266 0.16150856]]
+Image Name: TCGA-08-0525-01Z-00-DX3.eab97530-6470-4a8d-a345-f0062b6bf2cd&id-5af5f5ff92ca9a001ae77806.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.21934345 0.41992155 0.17046346 0.1902715 ]]
+Image Name: TCGA-08-0518-01Z-00-DX3.d15a0575-e285-448e-8323-d14c05128393&id-5af5f5fd92ca9a001ae777d0.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.82471603 0.01019411 0.11883775 0.04625205]]
+Image Name: TCGA-08-0524-01Z-00-DX3.313a243e-9d7a-4359-ad59-34f7cd6700db&id-5af5f5fe92ca9a001ae777fc.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.08391245 0.6045102  0.13029398 0.18128334]]
+Image Name: TCGA-06-0160-01A-01-BS1.54d2c902-d1c5-450e-8f63-4fc4b26a54f6&id-5af5f5f692ca9a001ae7771a.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.09888013 0.18347153 0.24910496 0.4685434 ]]
+Image Name: TCGA-06-0145-01Z-00-DX4.52da9a91-d1df-4e6b-8a80-9f2a2749cdeb&id-5af5f5f092ca9a001ae7767c.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.49749917 0.03996475 0.3177206  0.14481555]]
+Image Name: TCGA-06-0145-01A-03-BS3.5da5e32d-aafb-48b8-ae1d-1492617a5daa&id-5af5f5ef92ca9a001ae7766e.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.22890976 0.10226031 0.45052966 0.21830033]]
+Image Name: TCGA-12-0692-01Z-00-DX5.15cf8c37-6ecd-4926-8e2d-473be7b1a16c&id-5af5f60792ca9a001ae778f0.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.4665208  0.06946269 0.29154247 0.17247406]]
+Image Name: TCGA-06-0154-01A-02-BS2.f281b90d-574c-4b93-89d0-0f68f08506b7&id-5af5f5f492ca9a001ae776da.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.13083906 0.09017735 0.35091358 0.42807   ]]
+Image Name: TCGA-06-0127-01Z-00-DX2.f1ab580e-88c3-4fb3-ab6e-114b0a89c4f1&id-5af5f5eb92ca9a001ae775dc.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.21803185 0.25217068 0.301158   0.22863951]]
+Image Name: TCGA-12-0828-01A-01-BS1.6f86a305-4372-43a9-8bc7-794f661aa7d0&id-5af5f60e92ca9a001ae779ca.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.14035495 0.4058581  0.18748161 0.26630536]]
+Image Name: TCGA-06-0137-01Z-00-DX5.0f06ca27-54e2-490a-8afb-a19600e60619&id-5af5f5ed92ca9a001ae77620.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.78806484 0.01880169 0.13588493 0.05724858]]
+Image Name: TCGA-12-0670-01Z-00-DX1.749B1907-3792-4774-A3EC-94A837F737EA&id-5af5f60592ca9a001ae778b8.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.6471065  0.03089306 0.242795   0.07920538]]
+Image Name: TCGA-08-0514-01Z-00-DX1.E8426FFE-1EEE-42CA-81CE-F1118490AF64&id-5af5f5fc92ca9a001ae777b8.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.36434963 0.13256477 0.34870753 0.15437812]]
+Image Name: TCGA-12-0688-01A-02-BS2.70f9b137-0c93-4343-b7bd-c6825d2d142c&id-5af5f60592ca9a001ae778c4.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.0656741  0.52199614 0.15730159 0.25502813]]
+Image Name: TCGA-08-0510-01Z-00-DX1.7F32D156-A8BA-40B9-81EB-8BBCEBDB7B4F&id-5af5f5fb92ca9a001ae777a2.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.19066133 0.23485547 0.30022207 0.27426112]]
+Image Name: TCGA-12-0822-01Z-00-DX4.930BEE6E-3E78-4C10-B63F-D97AA6731A12&id-5af5f60d92ca9a001ae779ae.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.3466309  0.09032943 0.25026953 0.31277016]]
+Image Name: TCGA-08-0524-01A-01-BS1.e0513a37-53fa-44a8-ae60-ebc7090dc587&id-5af5f5fe92ca9a001ae777f0.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.08224482 0.30926707 0.2310365  0.37745163]]
+Image Name: TCGA-12-0688-01Z-00-DX2.4112332a-035a-4680-aead-90930786a726&id-5af5f60692ca9a001ae778c8.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.37544292 0.24403772 0.2135904  0.16692899]]
+Image Name: TCGA-12-0688-01Z-00-DX5.3651b74a-a95c-42fc-bb35-aa577ceb082b&id-5af5f60692ca9a001ae778ce.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.43128222 0.16044389 0.25762445 0.15064947]]
+Image Name: TCGA-12-0828-01Z-00-DX1.05F4B5F3-F4A1-4763-A1AB-7082AB06D37D&id-5af5f60f92ca9a001ae779ce.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.29988745 0.1767358  0.23133603 0.29204074]]
+Image Name: TCGA-06-0129-01A-01-BS1.1b476f92-6abb-4894-a8f0-fa8f877bc791&id-5af5f5eb92ca9a001ae775f0.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.06528727 0.30846232 0.24361426 0.3826362 ]]
+Image Name: TCGA-12-0828-01Z-00-DX2.E884D44B-E63F-47B3-BC43-F48A036EF99F&id-5af5f60f92ca9a001ae779d0.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.6296692  0.0197971  0.25088766 0.099646  ]]
+Image Name: TCGA-08-0524-01A-01-TS1.0edf27bd-4e13-4cfc-89af-cf59241efa3e&id-5af5f5fe92ca9a001ae777f2.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.07655488 0.2792125  0.23194054 0.41229206]]
+Image Name: TCGA-06-0124-01Z-00-DX5.5fee1242-c113-4404-b504-23b607a3459f&id-5af5f5e992ca9a001ae775c0.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.71996784 0.01999595 0.16987014 0.09016612]]
+Image Name: TCGA-12-0826-01Z-00-DX3.54FBC2BF-EC32-4062-B4CD-367A1C559EAD&id-5af5f60e92ca9a001ae779be.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.22848392 0.21432039 0.2894229  0.26777282]]
+Image Name: TCGA-08-0514-01A-01-BS1.64aa2895-fae1-4816-a24e-1fdb3cb8fc12&id-5af5f5fc92ca9a001ae777b2.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.08420318 0.10598764 0.45965832 0.3501508 ]]
+Image Name: TCGA-12-0662-01A-01-BS1.200b00f2-f0e2-4cd7-a474-79618ad7d476&id-5af5f60492ca9a001ae778a2.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.126102   0.27957854 0.24949823 0.3448212 ]]
+Image Name: TCGA-06-0124-01Z-00-DX1.eef7074b-4055-4d64-bc21-1f93822d63d3&id-5af5f5e992ca9a001ae775b4.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.45292395 0.09161061 0.26720676 0.18825866]]
+Image Name: TCGA-06-0138-01A-02-BS2.bd5b869c-0580-490a-abef-a0ecc63a0b0e&id-5af5f5ed92ca9a001ae7762d.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.1140016  0.3189426  0.28625765 0.28079817]]
+Image Name: TCGA-12-0616-01Z-00-DX6.2f9366a7-27d3-4538-922e-e271e435244f&id-5af5f60092ca9a001ae77836.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.3111479  0.15374532 0.32890362 0.20620319]]
+Image Name: TCGA-08-0356-01Z-00-DX1.8E74B4EF-3D96-43F6-BAD5-4A33C9B21B6E&id-5af5f5f892ca9a001ae77742.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.1848943  0.37148446 0.19639033 0.24723093]]
+Image Name: TCGA-12-0618-01Z-00-DX3.a718df65-8c92-4262-be57-d9c7ac77d362&id-5af5f60192ca9a001ae77840.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.36424854 0.08393238 0.38964427 0.16217482]]
+Image Name: TCGA-06-0139-01A-01-BS1.e4e583ce-de18-4313-a741-c05d9c83eb7b&id-5af5f5ee92ca9a001ae77638.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.1269015  0.35030675 0.23574184 0.28704995]]
+Image Name: TCGA-06-0122-01Z-00-DX2.8ccb2e31-03b4-4b49-88af-8412b68a901c&id-5af5f5e992ca9a001ae775ac.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.565991   0.0610516  0.22280811 0.15014927]]
+Image Name: TCGA-12-0654-01B-01-TS1.a701950a-6e3d-4303-84f9-60e608cf5471&id-5af5f60292ca9a001ae77870.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.20172128 0.26029435 0.24254316 0.29544127]]
+Image Name: TCGA-06-0150-01A-01-TS1.1fad3ddd-eacc-46eb-998e-247b2b276286&id-5af5f5f292ca9a001ae776b0.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.03699264 0.11072661 0.43869898 0.41358176]]
+Image Name: TCGA-08-0360-01A-01-TS1.7a339a09-fa8d-4410-9b2b-4d29faf05b08&id-5af5f5f992ca9a001ae7775c.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.45559573 0.0897     0.27969715 0.17500708]]
+Image Name: TCGA-06-0128-01Z-00-DX5.7186276e-c7fc-4003-ae02-f2358ea8dcba&id-5af5f5eb92ca9a001ae775ee.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.37035143 0.07205009 0.31157878 0.24601969]]
+Image Name: TCGA-12-0620-01B-01-TS1.5d570d2b-6312-472f-aa1d-254e9b4cb8ef&id-5af5f60192ca9a001ae77854.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.88229096 0.0027043  0.09477419 0.02023054]]
+Image Name: TCGA-06-0139-01Z-00-DX1.480e4717-5290-43a4-8534-62b7761ebe61&id-5af5f5ee92ca9a001ae77642.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.49704486 0.1220677  0.207923   0.1729645 ]]
+Image Name: TCGA-12-0829-01B-01-BS1.2ffea403-894d-4931-b973-e389fb845d43&id-5af5f60f92ca9a001ae779d8.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.12907487 0.3581439  0.21068496 0.30209628]]
+Image Name: TCGA-06-0130-01A-01-BS1.001fa858-81d5-4dcf-bd78-a100a011bc59&id-5af5f5ec92ca9a001ae775fa.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.07136802 0.24421997 0.17906038 0.50535166]]
+Image Name: TCGA-08-0511-01A-01-BS1.817e57b6-1b58-47ab-b947-93a6c723d205&id-5af5f5fb92ca9a001ae777a4.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.16129066 0.15473565 0.31872576 0.3652479 ]]
+Image Name: TCGA-12-0656-01Z-00-DX3.cc07a0fe-d9bc-42c6-913f-876efe3a0b94&id-5af5f60392ca9a001ae7788e.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.43447793 0.17658198 0.25757158 0.13136855]]
+Image Name: TCGA-06-0152-01Z-00-DX6.b20146eb-b6a1-4f9f-842f-8761fc489965&id-5af5f5f392ca9a001ae776ce.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.7206828  0.04246458 0.14566727 0.09118524]]
+Image Name: TCGA-06-0146-01A-01-TS1.0fd0511f-cbe2-4ec0-abb5-051d36ba12d8&id-5af5f5f092ca9a001ae77682.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.1387015  0.31479287 0.24013606 0.30636957]]
+Image Name: TCGA-06-0152-01Z-00-DX9.8620b410-9d16-418e-88e1-b75c020da50a&id-5af5f5f492ca9a001ae776d6.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.8996578  0.00541574 0.06968714 0.02523932]]
+Image Name: TCGA-06-0160-01A-01-TS1.679b4116-e836-4685-bbdb-738f473cd5b2&id-5af5f5f692ca9a001ae7771c.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.0718366  0.3161569  0.21790059 0.39410594]]
+Image Name: TCGA-12-0688-01A-01-TS1.22c0f6b2-32c1-428a-bdf3-69bb6ca91375&id-5af5f60592ca9a001ae778c2.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.24441105 0.19590758 0.2546989  0.30498245]]
+Image Name: TCGA-12-0620-01Z-00-DX2.2dde35f3-5eae-41b9-807a-9689a86dbb0d&id-5af5f60192ca9a001ae77858.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.22333547 0.23553076 0.27634618 0.26478758]]
+Image Name: TCGA-06-0132-01A-02-BS2.fbf9da60-f215-463e-ac37-c7fe132c1064&id-5af5f5ec92ca9a001ae77606.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.09263234 0.28363705 0.24452704 0.3792036 ]]
+Image Name: TCGA-12-0827-01Z-00-DX3.CC3B9B34-4BD8-4C93-ACC8-29BC2D3D93E0&id-5af5f60e92ca9a001ae779c8.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.23905824 0.29138243 0.24196501 0.2275943 ]]
+Image Name: TCGA-06-0162-01A-01-BS1.66e1810a-0f65-4cd9-bc19-fbc300cc26b4&id-5af5f5f692ca9a001ae7771e.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.11531969 0.06685024 0.33945355 0.47837654]]
+Image Name: TCGA-12-0670-01B-01-BS1.f47ee573-5a9e-4b05-9a73-9302c1569897&id-5af5f60592ca9a001ae778b4.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.3258302  0.20581903 0.2709159  0.19743492]]
+Image Name: TCGA-06-0141-01Z-00-DX5.b2dbdb69-a038-4b9e-a094-252d78287aad&id-5af5f5ee92ca9a001ae77652.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.13555363 0.2706295  0.23869939 0.35511756]]
+Image Name: TCGA-08-0522-01Z-00-DX1.821f6127-4e41-4f66-b8b5-28ddfb6b77ec&id-5af5f5fe92ca9a001ae777ec.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.81055135 0.00815227 0.154609   0.02668746]]
+Image Name: TCGA-06-0154-01Z-00-DX2.5d908d2e-08ba-4ae0-bb0e-34472a5ed4b3&id-5af5f5f492ca9a001ae776e0.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.36544582 0.10760941 0.22754733 0.29939738]]
+Image Name: TCGA-12-0670-01Z-00-DX4.CABEB480-65ED-4981-9057-8B2E398634D9&id-5af5f60592ca9a001ae778be.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.43092164 0.10818058 0.3103015  0.15059623]]
+Image Name: TCGA-08-0375-01A-01-BS1.dd0aa90f-bc4b-4899-b6f6-175c8c0f16fb&id-5af5f5f992ca9a001ae77766.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.06894806 0.6001387  0.14321092 0.18770222]]
+Image Name: TCGA-08-0357-01A-01-TS1.3cbd58d0-fb32-43a7-9fe2-0980740c5736&id-5af5f5f892ca9a001ae77746.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.27774704 0.2616594  0.22390957 0.23668393]]
+Image Name: TCGA-06-0137-01A-02-BS2.1ecbdd52-f82b-4621-9062-d4e61bcd0469&id-5af5f5ec92ca9a001ae77612.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.03394582 0.01452338 0.70203984 0.24949093]]
+Image Name: TCGA-12-0688-01A-01-BS1.c4c45ebb-8518-490a-abf7-ee583c7bbaad&id-5af5f60592ca9a001ae778c0.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.07494901 0.37054208 0.3329375  0.22157136]]
+Image Name: TCGA-12-0653-01A-01-BS1.98b4862a-8584-455d-9a15-a782c91d1ef0&id-5af5f60192ca9a001ae7785c.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.0647526  0.1332391  0.4017678  0.40024045]]
+Image Name: TCGA-12-0656-01B-01-TS1.3d6b64a2-56fa-41c2-946f-d7f3fa66aa1e&id-5af5f60392ca9a001ae77886.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.23413625 0.02591492 0.64014643 0.09980244]]
+Image Name: TCGA-08-0518-01Z-00-DX5.c63510f2-8ea3-451d-9dea-13f6cd66aaa3&id-5af5f5fd92ca9a001ae777d4.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.80320215 0.02089308 0.12223926 0.05366545]]
+Image Name: TCGA-12-0827-01A-01-TS1.df69cdf9-786b-4667-a25a-22edbcae28be&id-5af5f60e92ca9a001ae779c2.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.5471957  0.0997998  0.19105972 0.16194475]]
+Image Name: TCGA-06-0154-01Z-00-DX1.e52d5443-e663-451f-8a1f-83ec5bb9a401&id-5af5f5f492ca9a001ae776de.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.78897744 0.0196567  0.13207547 0.05929031]]
+Image Name: TCGA-12-0662-01Z-00-DX2.642f1935-5bbf-4980-9fe5-1244531a07e1&id-5af5f60492ca9a001ae778aa.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.49967304 0.13421671 0.2185748  0.14753549]]
+Image Name: TCGA-06-0126-01A-01-TS1.1fff9a32-d058-4a29-b5a5-eb498eed2077&id-5af5f5ea92ca9a001ae775d0.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.11231664 0.23921232 0.261891   0.38658005]]
+Image Name: TCGA-08-0516-01Z-00-DX1.B384463F-9206-424F-B829-600FB602722C&id-5af5f5fc92ca9a001ae777be.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.47348085 0.15930614 0.2102062  0.15700687]]
+Image Name: TCGA-06-0143-01B-01-TS1.ad667187-8d33-4260-a0f2-3d419eb95ce3&id-5af5f5ef92ca9a001ae77658.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.1535291  0.3312943  0.19351886 0.32165775]]
+Image Name: TCGA-06-0137-01Z-00-DX7.c0c25c01-8602-47a5-8d52-cb323c3432d2&id-5af5f5ed92ca9a001ae77624.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.92502135 0.003204   0.05804876 0.01372591]]
+Image Name: TCGA-06-0152-01R-01-TS1.c098ae6a-ccc2-4b52-bdad-42775f192021&id-5af5f5f392ca9a001ae776be.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.07376589 0.43578696 0.2040138  0.28643334]]
+Image Name: TCGA-06-0148-01A-01-BS1.d7cc4a9e-c6b0-4c0c-988e-436759eeceef&id-5af5f5f192ca9a001ae7768e.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.0549511  0.12546574 0.5616727  0.2579105 ]]
+Image Name: TCGA-12-0670-01Z-00-DX2.9B4706D7-1C81-4FD9-8E82-0223149306B6&id-5af5f60592ca9a001ae778ba.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.37916827 0.10370096 0.3697102  0.14742063]]
+Image Name: TCGA-12-0670-01B-01-TS1.16f4fbb9-b243-4c2c-aebf-f806b6c672c8&id-5af5f60592ca9a001ae778b6.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.5944001  0.00533478 0.33865723 0.06160786]]
+Image Name: TCGA-12-0691-01Z-00-DX2.f2ebd095-4760-4c0e-9d9e-d13b352394d8&id-5af5f60692ca9a001ae778d6.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.2415424  0.20233342 0.25229794 0.30382618]]
+Image Name: TCGA-12-0616-01Z-00-DX3.b426f381-b175-4a6d-957e-2dbfed42caeb&id-5af5f60092ca9a001ae77830.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.8927962  0.00558878 0.07820155 0.02341331]]
+Image Name: TCGA-06-0128-01A-01-BS1.4608b419-1da9-41a2-80b9-da42bbd53ec8&id-5af5f5eb92ca9a001ae775e1.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.03957628 0.17027678 0.39725947 0.39288744]]
+Image Name: TCGA-12-0691-01Z-00-DX3.5e39087c-19ce-4dff-89b2-bb366a48a393&id-5af5f60692ca9a001ae778d8.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.4763602  0.07797357 0.27272207 0.1729442 ]]
+Image Name: TCGA-08-0511-01A-01-TS1.9240ad7b-5a75-4b8e-8715-c7045577a78d&id-5af5f5fc92ca9a001ae777a6.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.17276038 0.14199418 0.38265494 0.30259055]]
+Image Name: TCGA-06-0141-01Z-00-DX4.3efe78fa-f1ee-42ae-83f8-c3fe79b997f3&id-5af5f5ee92ca9a001ae77650.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.20529766 0.26730463 0.26961666 0.25778106]]
+Image Name: TCGA-06-0157-01Z-00-DX2.8ff48e0c-0470-4055-af66-a1a40e587d50&id-5af5f5f692ca9a001ae77706.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.7411206  0.00914471 0.20569153 0.04404324]]
+Image Name: TCGA-08-0385-01A-01-TS1.20ea8b00-8b1e-4af0-96a3-8179af8a2644&id-5af5f5fa92ca9a001ae77778.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.18235299 0.34178045 0.21929422 0.2565724 ]]
+Image Name: TCGA-12-0616-01Z-00-DX1.b8f3138f-e73b-49bc-8354-a89e56232f56&id-5af5f60092ca9a001ae7782a.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.3960683  0.21752706 0.24008416 0.14632048]]
+Image Name: TCGA-08-0518-01Z-00-DX8.01f2c18c-09a8-4837-8619-62f1c9b82669&id-5af5f5fd92ca9a001ae777da.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.35489747 0.06619778 0.43726403 0.14164065]]
+Image Name: TCGA-12-0826-01A-01-TS1.6a4eeb89-1fa9-4a8b-8140-511020bc5988&id-5af5f60e92ca9a001ae779b8.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.11164375 0.41986832 0.26587176 0.20261614]]
+Image Name: TCGA-06-0154-01Z-00-DX4.6fda0714-6fd5-4955-ba9d-38681d19d4b6&id-5af5f5f492ca9a001ae776e4.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.3352014  0.044867   0.38054714 0.23938452]]
+Image Name: TCGA-08-0518-01Z-00-DX6.8271300c-82d6-4398-a318-e61f29ada268&id-5af5f5fd92ca9a001ae777d6.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.5004783  0.06026785 0.31149286 0.12776099]]
+Image Name: TCGA-06-0166-01A-01-TS1.e85993b2-c783-4571-a562-373df206d2ff&id-5af5f5f792ca9a001ae77730.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.02894457 0.01409728 0.66565496 0.29130313]]
+Image Name: TCGA-12-0620-01B-01-BS1.512242ea-6ddd-47b7-8df0-f3e89acc90ee&id-5af5f60192ca9a001ae77852.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.16263713 0.27027887 0.19530629 0.37177768]]
+Image Name: TCGA-12-5299-01A-01-TS1.989e7bdb-39b1-45b0-b0bc-86a00328c007&id-5af5f61b92ca9a001ae77b04.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.30802163 0.11055844 0.29008386 0.2913361 ]]
+Image Name: TCGA-06-0165-01A-01-TS1.5b2fcde0-cd56-4b8b-b168-5c9ec3baecc1&id-5af5f5f792ca9a001ae7772c.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.14065239 0.20748748 0.35922185 0.29263827]]
+Image Name: TCGA-08-0524-01Z-00-DX2.a4754138-9432-4216-852e-a04da6114939&id-5af5f5fe92ca9a001ae777fa.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.14270674 0.52839774 0.1370905  0.191805  ]]
+Image Name: TCGA-06-0145-01Z-00-DX3.319351f0-313a-4c99-b12f-a67b52c6785c&id-5af5f5f092ca9a001ae7767a.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.75601673 0.00805609 0.17165717 0.06427001]]
+Image Name: TCGA-06-0148-01A-01-TS1.5d4b69c8-a60a-4571-9cc2-9ea98f80f198&id-5af5f5f192ca9a001ae77690.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.22440328 0.18213695 0.28719142 0.30626833]]
+Image Name: TCGA-06-0130-01A-01-TS1.a025e11b-e8d8-4502-b99a-55caa9610d93&id-5af5f5ec92ca9a001ae775fc.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.0695385 0.1805976 0.2731552 0.4767087]]
+Image Name: TCGA-08-0525-01Z-00-DX1.254e63b9-3979-41d6-af5d-fb7bf1a9606f&id-5af5f5ff92ca9a001ae77802.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.11937572 0.5818233  0.1250983  0.17370266]]
+Image Name: TCGA-06-0124-01Z-00-DX4.d91f6ca6-dc38-46cc-9803-ec754acd65c4&id-5af5f5e992ca9a001ae775be.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.5722003  0.09875388 0.19852766 0.13051815]]
+Image Name: TCGA-12-0616-01Z-00-DX2.b1c06527-b3db-4a76-ac29-6e4a71566cc6&id-5af5f60092ca9a001ae7782c.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.7460457  0.04438869 0.14733256 0.06223301]]
+Image Name: TCGA-12-0657-01Z-00-DX4.cd3a505a-c9ba-4f45-9ea0-4cc4b7d07eb3&id-5af5f60492ca9a001ae778a0.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.5842735  0.11135616 0.20747389 0.09689648]]
+Image Name: TCGA-12-0691-01Z-00-DX6.07ecaf57-a9f0-4f28-aab4-3ee85e1008f0&id-5af5f60692ca9a001ae778e0.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.5068149  0.07993249 0.22531328 0.18793933]]
+Image Name: TCGA-12-0703-01Z-00-DX2.2fb49fe5-2b2b-4dbd-9cf4-76f0d0032d2a&id-5af5f60792ca9a001ae778fc.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.23560108 0.38319284 0.17526595 0.20594005]]
+Image Name: TCGA-12-0620-01Z-00-DX3.e12d459d-2ffe-464f-b7e9-6a5ea6c87ac3&id-5af5f60192ca9a001ae7785a.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.16515453 0.31926075 0.24740936 0.26817533]]
+Image Name: TCGA-06-0158-01A-01-BS1.b66efe55-855e-4e2c-ba2d-611821354831&id-5af5f5f692ca9a001ae7770e.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.07483917 0.34806705 0.32225907 0.25483468]]
+Image Name: TCGA-08-0389-01Z-00-DX1.F833FAB6-9A7B-4BBB-BF0B-3D4F18DBB8A2&id-5af5f5fa92ca9a001ae77786.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.4485141  0.17642573 0.21282554 0.16223454]]
+Image Name: TCGA-12-0653-01B-01-TS1.3d0261d3-9581-4980-90dd-67f5de17bb2c&id-5af5f60292ca9a001ae77862.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.18508539 0.12605354 0.4032212  0.28563988]]
+Image Name: TCGA-06-0145-01A-01-BS1.7c10d545-604b-43b0-8759-c0dd0eae2a08&id-5af5f5ef92ca9a001ae77668.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.22075266 0.07814144 0.5192303  0.18187559]]
+Image Name: TCGA-06-0137-01B-01-BS1.a7a21882-a6be-4079-b095-e824a2cdda12&id-5af5f5ed92ca9a001ae77616.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.07053008 0.03722776 0.45852003 0.43372217]]
+Image Name: TCGA-06-0151-01A-01-BS1.012638e1-e966-4fab-9563-d86f6f1cb627&id-5af5f5f292ca9a001ae776b2.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.17172182 0.24388954 0.28318277 0.30120587]]
+Image Name: TCGA-08-0357-01A-01-BS1.b016e8b0-fd10-4883-bba8-b66d748bb8c2&id-5af5f5f892ca9a001ae77744.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.3757013  0.19632871 0.23971137 0.1882586 ]]
+Image Name: TCGA-12-0691-01A-01-TS1.d2eaac17-4608-4ea0-8707-d29cabef6fc6&id-5af5f60692ca9a001ae778d2.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.26969445 0.06496134 0.4777337  0.18761057]]
+Image Name: TCGA-12-0703-01Z-00-DX1.c09bd51d-9a48-446a-a9fd-d4138f76c11c&id-5af5f60792ca9a001ae778f8.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.2117655  0.4219701  0.17306127 0.19320309]]
+Image Name: TCGA-12-0656-01A-01-BS1.1313d482-16a7-4c98-a904-d0d3065bc4ba&id-5af5f60392ca9a001ae77880.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.10296536 0.4919107  0.1367081  0.26841584]]
+Image Name: TCGA-06-0129-01Z-00-DX2.1ea78b46-1dc7-44d8-81bf-7717072d2f15&id-5af5f5ec92ca9a001ae775f6.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.10678441 0.50450104 0.13086669 0.25784788]]
+Image Name: TCGA-06-0143-01R-01-BS1.10d9ff74-aac4-4b23-b123-fc015f7d1c53&id-5af5f5ef92ca9a001ae7765a.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.31027618 0.14067306 0.32693174 0.2221191 ]]
+Image Name: TCGA-06-0156-01A-01-BS1.96049052-3a44-4317-a35d-b108c1dd117f&id-5af5f5f592ca9a001ae776ee.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.06844231 0.19032302 0.38317037 0.35806432]]
+Image Name: TCGA-12-0615-01A-01-TS1.cebf57b6-8951-44bd-8e73-be84996608ba&id-5af5f5ff92ca9a001ae7781e.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.32996124 0.01649822 0.46424264 0.1892979 ]]
+Image Name: TCGA-12-0619-01A-01-TS1.85e517a2-33ba-4c51-b1b5-2f1ac5223f50&id-5af5f60192ca9a001ae77846.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.4543382  0.00863163 0.47276074 0.06426942]]
+Image Name: TCGA-06-0127-01A-01-BS1.06d123be-37ef-4b00-89cb-4066ab09ea4d&id-5af5f5ea92ca9a001ae775d6.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.06922003 0.16377573 0.31846356 0.4485407 ]]
+Image Name: TCGA-08-0375-01Z-00-DX1.76B7554F-0C77-4E2B-A1F7-633E896FB5E3&id-5af5f5f992ca9a001ae7776a.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.26470485 0.11853865 0.36980182 0.2469547 ]]
+Image Name: TCGA-08-0380-01A-01-TS1.bb38221f-4439-4999-bef1-4890a93db131&id-5af5f5f992ca9a001ae7776e.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.13129187 0.0486591  0.73189783 0.08815126]]
+Image Name: TCGA-06-0128-01Z-00-DX2.69815e48-000e-42cc-9ae0-f442100242a5&id-5af5f5eb92ca9a001ae775e8.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.6324206  0.0401884  0.17958039 0.1478106 ]]
+Image Name: TCGA-12-0829-01A-01-BS1.694fc2bf-ec30-43de-95b7-0ec6b28184c2&id-5af5f60f92ca9a001ae779d4.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.1201071  0.44126406 0.17036934 0.2682595 ]]
+Image Name: TCGA-06-0127-01Z-00-DX3.2e311110-3d6f-4864-9cd4-d8e716cb4db6&id-5af5f5eb92ca9a001ae775de.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.7309841  0.01691039 0.1831484  0.06895708]]
+Image Name: TCGA-08-0389-01A-01-TS1.2ca5ef4d-2ce0-4a6c-af87-a8f1d61d7cf2&id-5af5f5fa92ca9a001ae77784.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.19206482 0.26322916 0.29981694 0.24488908]]
+Image Name: TCGA-08-0509-01A-01-TS1.27f6ae4c-e445-4e2e-a94b-31d449ba69c9&id-5af5f5fb92ca9a001ae7779a.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.11160954 0.39069107 0.15237132 0.345328  ]]
+Image Name: TCGA-08-0529-01A-02-BS2.9f2a81e6-8611-402a-9aa7-e1d9e2d07b60&id-5af5f5ff92ca9a001ae7780f.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.14544107 0.11193693 0.18064079 0.56198126]]
+Image Name: TCGA-06-0138-01Z-00-DX1.212817bd-0fa0-4503-ae5b-4eaee8ee95e5&id-5af5f5ed92ca9a001ae77630.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.6863923  0.02699077 0.19654472 0.09007235]]
+Image Name: TCGA-08-0525-01A-01-TS1.4ca56355-5f29-40ce-8006-da1f125f511c&id-5af5f5ff92ca9a001ae77800.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.19232993 0.14400907 0.34072292 0.32293808]]
+Image Name: TCGA-12-0619-01Z-00-DX3.bfb91928-1b12-46dc-a734-dd87ae164c13&id-5af5f60192ca9a001ae7784c.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.46355483 0.12723882 0.23672888 0.17247747]]
+Image Name: TCGA-06-0137-01Z-00-DX4.140591f4-dc4d-493d-9a70-bed1335dd1c1&id-5af5f5ed92ca9a001ae7761e.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.8471554  0.00603916 0.11779879 0.0290067 ]]
+Image Name: TCGA-06-0126-01A-01-BS1.76671d9b-184b-43fe-b9c0-94bf26788d1f&id-5af5f5ea92ca9a001ae775ce.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.1126532  0.2852108  0.33453622 0.26759982]]
+Image Name: TCGA-12-0615-01Z-00-DX3.57f0d9cc-9570-4c75-9c7b-d6e346b9e6bf&id-5af5f60092ca9a001ae77824.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.78933626 0.02358079 0.14261603 0.04446684]]
+Image Name: TCGA-06-0164-01A-01-TS1.2bcef24d-605c-4894-b17a-7c835ba030e4&id-5af5f5f792ca9a001ae77728.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.04103503 0.26690614 0.27062812 0.42143068]]
+Image Name: TCGA-06-0152-01Z-00-DX1.1fc06545-499a-45dc-8815-e987ba3b3630&id-5af5f5f392ca9a001ae776c0.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.6292162  0.0575713  0.16507156 0.14814095]]
+Image Name: TCGA-06-0151-01A-01-TS1.261ef385-4f7a-447f-9700-ecc142f6241d&id-5af5f5f292ca9a001ae776b4.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.13501418 0.2672113  0.3077663  0.2900082 ]]
+Image Name: TCGA-06-0148-01Z-00-DX3.4552941d-88e8-499f-ab40-92b86e9b6459&id-5af5f5f292ca9a001ae776a0.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.817097   0.00640494 0.13953155 0.03696645]]
+Image Name: TCGA-08-0516-01A-01-BS1.5d791a65-4b0c-4a28-bf5a-73ae5172e044&id-5af5f5fc92ca9a001ae777ba.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.08197837 0.13078375 0.32627884 0.46095908]]
+Image Name: TCGA-06-0157-01A-01-TS1.d611a182-74c7-4dc3-8c2d-2dea95a5822e&id-5af5f5f592ca9a001ae77702.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.03888749 0.31179804 0.42081657 0.22849792]]
+Image Name: TCGA-12-0703-01Z-00-DX3.93ac10c7-1668-4dcd-b27b-a8f4855c695a&id-5af5f60792ca9a001ae778fe.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.3079812  0.34660926 0.18217167 0.16323794]]
+Image Name: TCGA-12-0657-01Z-00-DX2.426da533-c768-43b8-b38e-92469082ff27&id-5af5f60392ca9a001ae7789a.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.24121743 0.337915   0.22075248 0.20011516]]
+Image Name: TCGA-12-0692-01Z-00-DX1.f01c48e9-333d-4ca8-8b36-e2749b629aea&id-5af5f60792ca9a001ae778e6.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.11092981 0.52491355 0.14717527 0.21698135]]
+Image Name: TCGA-08-0518-01Z-00-DX1.165174cf-2a73-4e46-a3f8-8bce1f2c0885&id-5af5f5fd92ca9a001ae777cc.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.65288407 0.03387609 0.22821763 0.08502216]]
+Image Name: TCGA-12-0703-01A-01-BS1.0fad5028-ccc0-4d45-95a6-9a8ca98242c8&id-5af5f60792ca9a001ae778f2.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.10278177 0.09569256 0.4432949  0.3582307 ]]
+Image Name: TCGA-12-0707-01Z-00-DX4.4371711c-c65a-4a3f-b054-3566f4050b97&id-5af5f60892ca9a001ae7790a.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.6797954  0.04310456 0.18025531 0.09684472]]
+Image Name: TCGA-08-0390-01A-01-BS1.b4c54f6f-d48f-4ff9-808f-8fa34c9011e5&id-5af5f5fa92ca9a001ae77788.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.3831853  0.15310581 0.24083616 0.22287266]]
+Image Name: TCGA-06-0145-01Z-00-DX5.1d9fc2de-a6f4-4484-9bb2-81b92a6674b1&id-5af5f5f092ca9a001ae7767e.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.8798137  0.00513155 0.07810333 0.03695145]]
+Image Name: TCGA-06-0159-01A-01-TS1.be264877-6a8c-48dd-8718-5c8d1f72e7ca&id-5af5f5f692ca9a001ae77717.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.0613284  0.37475005 0.26017293 0.3037486 ]]
+Image Name: TCGA-08-0520-01Z-00-DX1.2d50b1bc-c1d8-41a4-b42f-19d9916a5ef6&id-5af5f5fd92ca9a001ae777e0.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.39759463 0.19858813 0.2524813  0.15133597]]
+Image Name: TCGA-12-0703-01A-01-TS1.6c257888-7f63-407c-84db-b31033b22cef&id-5af5f60792ca9a001ae778f4.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.1315683  0.06622983 0.70743823 0.09476364]]
+Image Name: TCGA-08-0516-01A-01-TS1.b05317d6-90dd-455a-8d53-f1889498ef15&id-5af5f5fc92ca9a001ae777bc.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.11968407 0.32491866 0.25322345 0.30217385]]
+Image Name: TCGA-76-6662-01B-01-BS1.7cc68de6-9dda-4e2b-a7f2-0f3afa171ddd&id-5af5f63992ca9a001ae77dda.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.07522955 0.17254059 0.284736   0.4674938 ]]
+Image Name: TCGA-06-0137-01Z-00-DX3.84d2c007-be53-431d-b5d6-1bb62d28cafb&id-5af5f5ed92ca9a001ae7761c.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.4099226  0.10794633 0.3500117  0.13211931]]
+Image Name: TCGA-12-0656-01B-01-BS1.b40933c5-4bd9-4fee-9526-08ff0ff66744&id-5af5f60392ca9a001ae77884.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.19642907 0.17974651 0.29570246 0.3281219 ]]
+Image Name: TCGA-08-0357-01Z-00-DX1.F0E652B4-DE1D-41AA-A531-FEBC41C62D4F&id-5af5f5f892ca9a001ae77748.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.37288967 0.2753925  0.18022327 0.1714946 ]]
+Image Name: TCGA-06-0137-01A-01-TS1.4c2f6597-2496-4c6a-8b9a-c45250cc51e9&id-5af5f5ec92ca9a001ae77610.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.02394663 0.0217435  0.77950704 0.17480281]]
+Image Name: TCGA-08-0392-01A-01-TS1.692df3ca-5e7f-40cb-b746-2b1bd5f7d91a&id-5af5f5fb92ca9a001ae77794.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.05749162 0.09643206 0.6056739  0.24040237]]
+Image Name: TCGA-06-0125-01A-01-BS1.563be357-f8cd-4a8a-bcfa-e6ed42763153&id-5af5f5ea92ca9a001ae775c4.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.02688381 0.21661414 0.2622129  0.4942891 ]]
+Image Name: TCGA-12-0619-01Z-00-DX1.5dbe8a66-9996-4f86-881e-025614e0bd9f&id-5af5f60192ca9a001ae77848.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.7678394  0.01594522 0.15886489 0.05735056]]
+Image Name: TCGA-08-0518-01A-01-BS1.ffdc987e-b406-4ae1-95ca-2e71f5831bf1&id-5af5f5fd92ca9a001ae777c8.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.12512973 0.22246996 0.31285712 0.33954316]]
+Image Name: TCGA-12-0656-01Z-00-DX4.e774fe6a-6d77-438f-b9e7-0a51f24223b9&id-5af5f60392ca9a001ae77890.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.43089575 0.17713088 0.25378495 0.13818835]]
+Image Name: TCGA-08-0358-01A-01-TS1.3633efa6-dd5f-4218-8753-6f2d6f9e863f&id-5af5f5f892ca9a001ae7774e.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.18017195 0.20649931 0.36168    0.25164863]]
+Image Name: TCGA-12-0616-01Z-00-DX5.829be590-41ed-4498-b33e-9e4de11654ce&id-5af5f60092ca9a001ae77834.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.40036747 0.0979126  0.318443   0.18327689]]
+Image Name: TCGA-12-1088-01A-01-BS1.001a9e37-ea17-4141-bd3a-e4b755831350&id-5af5f60f92ca9a001ae779de.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.05617271 0.35927048 0.3359118  0.24864495]]
+Image Name: TCGA-06-0124-01A-01-BS1.a8f445a3-c1fa-453e-80c7-117f794cac4d&id-5af5f5e992ca9a001ae775b0.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.05298973 0.28351137 0.26757437 0.3959245 ]]
+Image Name: TCGA-12-0691-01Z-00-DX4.f7c6d2db-9c2d-4cfb-ba31-6392599c561a&id-5af5f60692ca9a001ae778da.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.6131473  0.0429017  0.23064451 0.11330654]]
+Image Name: TCGA-06-0152-01Z-00-DX4.5403448f-0430-4324-a801-37e597d9a8ff&id-5af5f5f392ca9a001ae776c8.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.8337416  0.01615255 0.10971791 0.04038792]]
+Image Name: TCGA-06-0155-01B-01-TS1.8c3dbf23-e45a-4232-9274-876ab022f75a&id-5af5f5f592ca9a001ae776ec.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.14646421 0.35224518 0.24604118 0.2552494 ]]
+Image Name: TCGA-06-0122-01A-01-TS1.40d23efb-7e10-47e5-adf0-674df2f747a3&id-5af5f5e992ca9a001ae775a8.jpg
+Prediction possiblities are (classes of the order: Blood Class -  BloodInk - Control - Ink)
+[[0.10334735 0.32071537 0.23264462 0.34329268]]
