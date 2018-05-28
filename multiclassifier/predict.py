@@ -50,11 +50,19 @@ for dataset in img_data_list:
     y_test_images = np.zeros((1, len(os.listdir('training_data')))) 
     ### Creating the feed_dict that is required to be fed to calculate y_pred 
     feed_dict_testing = {x: x_batch, y_true: y_test_images}
-    result=sess.run(y_pred, feed_dict=feed_dict_testing)
-    # result is of this format [probabiliy_of_rose probability_of_sunflower]
-    file = open("output.txt", "a+")
-    file.write("Image Name: " + dataset + "\n" + "Prediction possiblities are (classes of the order: ")
-    file.write("Blood Class -  BloodInk - Control - Ink)"+ "\n")
-    print >>file, result
-    #file.write(result)
+    #result=sess.run(y_pred, feed_dict=feed_dict_testing) prediction probabilities
+    prob_result=sess.run(y_pred, feed_dict=feed_dict_testing)
+    y_pred_cls=tf.argmax(prob_result, dimension=1)
+    predictedclass= sess.run(y_pred_cls)
+    file = open('tf_output.txt', "a+")
+    file.write(dataset + ",  ")
+    opt = str(predictedclass) + ",  " + str(prob_result)
+    #file.write("Image Name: " + dataset + "\n" + "Prediction possiblities are (classes of the order: ")
+    #file.write("Blood Class -  BloodInk - Control - Ink)"+ "\n")
+    file.write(opt)
+    #print >>file, opt 
+    #file.write(",")
+    #print >>file, predictedclass
+    #file.write(result) It did not work. it writes an object
     file.close()
+    
