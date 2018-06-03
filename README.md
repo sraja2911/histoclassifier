@@ -1,56 +1,42 @@
-Binary Classifier:
+# Multi-classes Tensorflow images classifier for Histopathology images of TCGA-GBM WSI images
 
-A binary classes (Classes Eg: Blood, BloodInk; BloodInk, Control; Control, Ink; Blood, Control- Control: No Ink, Blood, Bubble in the images) image classifier, based on convolutional neural network using Tensorflow.
+A multi classes (Markers in the WSI images are classified as  Blood, BloodInk, Control, Ink; Control: No Ink, Blood, Bubble in the images) image classifier, based on convolutional neural network using Tensorflow.
 
-Glioblastomas (GBM) Images (SVS-WSI images are converted into jpg files) are read through opencv
-(pip install opencv-python)
+Glioblastomas (GBM) Images (SVS-WSI images, downloaded from TCGA) are converted into jpg files) and are read through opencv (pip install opencv-python)
 
-As a start, a very small (tutorials to histopathology images classification) network that can run on a CPU. 
+Original WSI-SVS images are of size : 18500 * 12000 pixels
+converted JPG images are of size: 1000 * 850 pixels
 
-Data:
-Training Data: 160 Images
-Validation Data: 40 Images
-Test Data: 40 Images
-Input Image size converted to 128 * 128 * 3  
-Training images are passed in a batch of 10 (batch_size) in each iteration (16 iterations).
+320 training images (80 from each classes) are fed through 32 interations of batch size =10
+20% (64 images) images automatically taken out as validation imaes, Test Data: 80 Images 
 
-Network architecture
-RELU as our activation function which simply takes the output of max_pool and applied RELU using tf.nn.relu. All these operations are done in a single convolution layer.
+# CNN Layers
+While training, all the images from four classes are fed to a convolutional layer which is followed by 2 more convolutional layers (filter size:3*3,#of filters=32). 
+After convolutional layers, flattened the output and added two fully connected layer in the end. 
+The second fully connected layer (128 Neurons) has only four outputs which represent the probability of an image being a Blood, BloodInk, Control or Ink classes.
 
-Used k_size/filter_size as 2 * 2 and stride of 2 in both x and y direction.
+# Tensorflow Placeholders
+All the input images are resized to 128 x 128 x 3 size. Input placeholder x is created in the shape of [32, 128, 128, 3]. A placeholder  (y_true) to store prediction is created. y_pred is the placeholder for output probabilities (for batch size 32 of 4 classes, it will be [32 4]).
 
-Used AdamOptimizer for gradient calculation and weight optimization. Tried to  minimise cost with a learning rate of 0.0001.
+Softmax is a function that converts K-dimensional vector ‘x’ containing real values to the same shaped vector of real values in the range of (0,1), whose sum is 1. Applied the softmax function to the output of convolutional neural network to convert the output to the probability for each class.
 
------------------------------------------------------------------------------------------------------------
-Multiclassifer:
-
-A multi classes (Classes Blood, BloodInk, Control, Ink; Control: No Ink, Blood, Bubble in the images) image classifier, based on convolutional neural network using Tensorflow.
-
-Glioblastomas (GBM) Images (SVS-WSI images are converted into jpg files) are read through opencv (pip install opencv-python)
-
-Data: 
-Training Data: 320 Images,  Validation Data: 80 Images,  Test Data: 80 Images
-Input Image size converted to 128 * 128 * 3
-Training images are passed in a batch of 10 (batch_size) in each iteration (32 iterations).
-
-Network architecture RELU as our activation function which simply takes the output of max_pool and applied RELU using tf.nn.relu. All these operations are done in a single convolution layer.
+# Network architecture:
+RELU as our activation function which simply takes the output of max_pool and applied RELU using tf.nn.relu. 
+All these operations are done in a single convolution layer.
 
 Used k_size/filter_size as 2 * 2 and stride of 2 in both x and y direction.
 
-Used AdamOptimizer for gradient calculation and weight optimization. Tried to minimise cost with a learning rate of 0.00001.
+AdamOptimizer for gradient calculation and weight optimization. 
 
+Tried to minimise cost with a learning rate from 0.00001 to 0.00001.
 Training Accuracy: 40-70% and Validation Accuratcy: 0 - 80%
 
-WIP Docs folder has runtime results in a doc file with metrices in a spreadsheet file
+Tensorflow session object is used to store all the values. 
 
-Prediction Metrices for each class:
+Ttraining images with labels are used for training, in general training accuracy will be higher than validation. 
 
-Classess in the order: Blood, BloodInk, Control, Ink     
+After each Epooch, training accuracy and validation accuracy numbers are reported and saved the model using saver object in Tensorflow.
 
-For Blood   : [[0.41105273, 0.10850155 , 0.250138, 0.23030767]]     
-
-For BlookInk: [[0.47074214, 0.07581728, 0.2964673, 0.1569733 ]] 
-
-For Control : [[0.10678441, 0.50450104, 0.13086669, 0.25784788]]                                                             
-
-For Ink     : [[0.08805854, 0.2579561,  0.31059676 0.343388]]
+# Output
+WIP Docs folder has runtime results
+Output file listout all the classes probabilities of each image (80 unlabeled images), with higher probabilites is considered for the said image.
