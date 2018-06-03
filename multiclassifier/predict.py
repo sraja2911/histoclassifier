@@ -33,7 +33,7 @@ for dataset in img_data_list:
     ## Let us restore the saved model 
     sess = tf.Session()
     # Step-1: Recreate the network graph. At this step only graph is created.
-    saver = tf.train.import_meta_graph('blood-bloodink-Controlmode.meta')
+    saver = tf.train.import_meta_graph('blood-control-bloodink-ink-mode.meta')
     # Step-2: Now let's load the weights saved using the restore method.
     saver.restore(sess, tf.train.latest_checkpoint('./'))
 
@@ -58,7 +58,7 @@ for dataset in img_data_list:
     file.write(dataset + ",  ")
     opt = str(predictedclass) + ",  " + str(prob_result)
     #file.write("Image Name: " + dataset + "\n" + "Prediction possiblities are (classes of the order: ")
-    #file.write("Blood Class -  BloodInk - Control - Ink)"+ "\n")
+    #file.write("Blood Class -  control - BloodInk - Ink)"+ "\n")
     file.write(opt)
     #print >>file, opt 
     #file.write(",")
