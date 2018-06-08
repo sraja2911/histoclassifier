@@ -39,4 +39,4 @@ After each Epooch, training accuracy and validation accuracy numbers are reporte
 
 # Output
 WIP Docs folder has runtime results
-Output file (tf_output.txt) listout, probabilities of each class against each image (80 unlabeled images), with higher probabilites is considered for the said image.
+Output file (tf_output.txt) listout, probabilities of each class against each image (423 unlabeled images), with higher probabilites is considered for the said image.
